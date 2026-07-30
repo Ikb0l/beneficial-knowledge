@@ -1,0 +1,266 @@
+[
+  {
+    "question_text": "The amount of open space in California has diminished over the last ten years.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "In California, where population growth has averaged more than 600,000 a year for at least a decade, more residential housing is being built. 'What once was open space is now residential homes providing fuel to make fires burn with greater intensity,' says Terry McHale of the California Department of Forestry firefighters' union. 'With so much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.' That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Many experts believe California has made little progress in readying itself to fight fires.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "'With so much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.' That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people. Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood - and canyon-hopping fires better than previously, observers say. State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Personnel in the past have been criticised for mishandling fire containment.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people. Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood - and canyon-hopping fires better than previously, observers say. State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled. Firefighters' unions that in the past complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state's commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "California has replaced a range of firefighting tools.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "The megafires of California Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires in the western United States Wildfires are becoming an increasing menace in the western United States, with Southern California being the hardest hit area. There's a reason fire squads battling more frequent blazes in Southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the 'Santa Ana Winds'. The wildfires themselves, experts say, are generally hotter, faster, and spread more erratically than in the past. Megafires, also called 'siege fires', are the increasingly frequent blazes that burn 500,000 acres or more - 10 times the size of the average forest fire of 20 years ago.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "More firefighters have been hired to improve fire-fighting capacity.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood - and canyon-hopping fires better than previously, observers say. State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled. Firefighters' unions that in the past complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state's commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs. 'We are pleased that the current state administration has been very proactive in its support of us, and [has] come through with budgetary support of the infrastructure needs we have long sought,' says Mr.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Citizens and government groups disapprove of the efforts of different states and agencies working together.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "After a commission examined and revamped communications procedures, the statewide response 'has become far more professional and responsive,' he says. There is a sense among both government officials and residents that the speed, dedication, and coordination of firefighters from several states and jurisdictions are resulting in greater efficiency than in past 'siege fire' situations. In recent years, the Southern California region has improved building codes, evacuation procedures, and procurement of new technology. 'I am extraordinarily impressed by the improvements we have witnessed,' says Randy Jacobs, a Southern California-based lawyer who has had to evacuate both his home and business to escape wildfires.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Randy Jacobs believes that loss of life from fires will continue at the same levels, despite changes made.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "'I am extraordinarily impressed by the improvements we have witnessed,' says Randy Jacobs, a Southern California-based lawyer who has had to evacuate both his home and business to escape wildfires. 'Notwithstanding all the damage that will continue to be caused by wildfires, we will no longer suffer the loss of life endured in the past because of the fire prevention and firefighting measures that have been put in place,' he says.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Wagner was the first person to do research on South American lizards.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be the whole story. In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia. Many of these have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs. Other species, however, sport up to four toes on their hind legs.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Wagner believes that Bachia lizards with toes had toeless ancestors.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "The simplest explanation is that the toed lineages never lost their toes, but Wagner begs to differ. According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years. So what's going on? One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The temporary occurrence of long-lost traits in embryos is rare.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "And so the idea of irreversibility in evolution stuck and came to be known as 'Dollo's law'. If Dollo's law is right, atavisms should occur only very rarely, if at all. Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Evolutionary throwbacks might be caused by developmental problems in the womb.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards', but as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution. The technical term for an evolutionary throwback is an 'atavism', from the Latin atavus, meaning forefather. The word has ugly connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  }
+]

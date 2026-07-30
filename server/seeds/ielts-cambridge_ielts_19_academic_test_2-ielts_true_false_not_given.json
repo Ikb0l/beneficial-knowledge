@@ -1,0 +1,266 @@
+[
+  {
+    "question_text": "Britain's canal network grew rapidly so that more goods could be transported around the country.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "It was a key innovation that would allow steam power to spread across British industries. The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run not only the factories used to produce manufactured goods, but also steam-powered transportation. In the early 1800s, the English engineer Richard Trevithick built a steam-powered locomotive, and by 1830 goods and passengers were being transported between the industrial centres of Manchester and Liverpool. In addition, steam-powered boats and ships were widely used to carry goods along Britain's canals as well as across the Atlantic.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Costs in the iron industry rose when the technique of smelting iron ore with coke was introduced.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "* agrarian: relating to the land, especially the use of land for farming The British iron industry also underwent major change as it adopted new innovations. Chief among the new techniques was the smelting of iron ore with coke (a material made by heating coal) instead of the traditional charcoal. This method was cheaper and produced metals that were of a higher quality, enabling Britain's iron and steel production to expand in response to demand created by the Napoleonic Wars (1803-15) and the expansion of the railways from the 1830s. The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Samuel Morse's communication system was more reliable than that developed by William Cooke and Charles Wheatstone.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "The latter part of the Industrial Revolution also saw key advances in communication methods, as people increasingly saw the need to communicate efficiently over long distances. In 1837, British inventors William Cooke and Charles Wheatstone patented the first commercial telegraphy system. In the 1830s and 1840s, Samuel Morse and other inventors worked on their own versions in the United States. Cooke and Wheatstone's system was soon used for railway signalling in the UK.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "The economic benefits of industrialisation were limited to certain sectors of society.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "This rapid urbanisation brought significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation. Although industrialisation increased the country's economic output overall and improved the standard of living for the middle and upper classes, many poor people continued to struggle. Factory workers had to work long hours in dangerous conditions for extremely low wages. These conditions along with the rapid pace of change fuelled opposition to industrialisation.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Some skilled weavers believed that the introduction of the new textile machines would lead to job losses.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "In Britain, it was a period when a largely rural, agrarian* society was transformed into an industrialised, urban one. Goods that had once been crafted by hand started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries. The foundations of the Industrial Revolution date back to the early 1700s, when the English inventor Thomas Newcomen designed the first modern steam engine. Called the 'atmospheric steam engine', Newcomen's invention was originally used to power machines that pumped water out of mines.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "There was some sympathy among local people for the Luddites who were arrested near Huddersfield.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "The workers wanted employers to stop installing new machinery, but the British government responded to the uprisings by making machine-breaking punishable by death. The unrest finally reached its peak in April 1812, when a few Luddites were shot during an attack on a mill near Huddersfield. In the days that followed, other Luddites were arrested, and dozens were hanged or transported to Australia. By 1813, the Luddite resistance had all but vanished.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Many people who ended up winning prestigious intellectual prizes only reached an average standard when young.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "He found a pattern of parents encouraging and supporting their children, often in areas they enjoyed themselves. Bloom's outstanding people had worked very hard and consistently at something they had become hooked on when at a young age, and their parents all emerged as having strong work ethics themselves. Eyre says we know how high performers learn. From that she has developed a high performing learning approach.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Einstein's failures as a young man were due to his lack of confidence.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "Apparently not. Most Nobel prize winners were unexceptional in childhood. Einstein was slow to talk as a baby. He failed the general part of the entry test to Zurich Polytechnic - though they let him in because of high physics and maths scores.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "It is difficult to reach agreement on whether some children are actually born gifted.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "She was the only woman to win the Fields Medal - the mathematical equivalent of a Nobel prize. It would be easy to assume that someone as special as Mirzakhani must have been one of those 'gifted' children, those who have an extraordinary ability in a specific sphere of activity or knowledge. But look closer and a different story emerges. Mirzakhani was born in Tehran, Iran.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Einstein was upset by the public's view of his life's work.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "Most Nobel prize winners were unexceptional in childhood. Einstein was slow to talk as a baby. He failed the general part of the entry test to Zurich Polytechnic - though they let him in because of high physics and maths scores. He struggled at work initially, but he kept plugging away and eventually rewrote the laws of Newtonian mechanics with his theory of relativity.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Einstein put his success down to the speed at which he dealt with scientific questions.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 2",
+    "passage_text": "Children talked about the need to work hard at school, to listen in class and keep trying. Let us end with Einstein, the epitome of a genius. He clearly had curiosity, character and determination. He struggled against rejection in early life but was undeterred.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 2"
+    }
+  }
+]

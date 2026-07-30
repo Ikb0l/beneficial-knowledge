@@ -1,0 +1,158 @@
+[
+  {
+    "question_text": "Choose the correct heading for: A",
+    "options": [
+      "An academic outlines some of the advantages of AI in sport",
+      "Responses to criticisms of AI in sports coaching",
+      "The businesses responsible for creating AI software",
+      "A contrast between coaching today and in the past"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iii"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "A"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: B",
+    "options": [
+      "AI can improve the profitability of sporting businesses",
+      "An academic study into a team sport in one country",
+      "The businesses responsible for creating AI software",
+      "An academic outlines some of the advantages of AI in sport"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "vii"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: C",
+    "options": [
+      "A contrast between coaching today and in the past",
+      "The uses of AI in coaching a range of different sports",
+      "An academic outlines some of the advantages of AI in sport",
+      "The businesses responsible for creating AI software"
+    ],
+    "correct_index": 2,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iv"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: D",
+    "options": [
+      "AI can improve the profitability of sporting businesses",
+      "The uses of AI in coaching a range of different sports",
+      "A contrast between coaching today and in the past",
+      "Responses to criticisms of AI in sports coaching"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "viii"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: E",
+    "options": [
+      "An academic study into a team sport in one country",
+      "AI can improve the profitability of sporting businesses",
+      "The businesses responsible for creating AI software",
+      "The use of AI to decide the results of a competition"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "vi"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "E"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: F",
+    "options": [
+      "The use of AI to decide the results of a competition",
+      "The businesses responsible for creating AI software",
+      "An academic outlines some of the advantages of AI in sport",
+      "AI can improve the profitability of sporting businesses"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has six paragraphs, A-F.\nChoose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Artificial Intelligence in Sport A The first sports game was televised in the USA more than fifty years ago. Over the following decades television provided sports coaches with a wealth of information to analyse. By viewing recordings, they could study the number of passes received, tackles avoided, distances covered, speeds achieved and a host of other factors relating to the performance of their teams or athletes.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "i"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5",
+      "item_text": "F"
+    }
+  }
+]

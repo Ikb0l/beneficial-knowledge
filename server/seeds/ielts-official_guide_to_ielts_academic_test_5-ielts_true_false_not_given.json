@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "The aim of the research by the Pelagos Institute in 1998 was to prove that navy sonar was responsible for whale strandings.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "It is known that noise pollution from offshore industry, shipping and sonar can impair underwater communication, but can it really drive whales onto our beaches? In 1998, researchers at the Pelagos Cetacean Research Institute, a Greek non-profit scientific group, linked whale strandings with low-frequency sonar tests being carried out by the North Atlantic Treaty Organisation (NATO). They recorded the stranding of 12 Cuvier's beaked whales over 38.2 kilometres of coastline. NATO later admitted it had been testing new sonar technology in the same area at the time as the strandings had occurred.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "The whales stranded in Greece were found at different points along the coast.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "\"We analysed data from 1920 to 2002 ... and observed a clear periodicity in the number of whales stranded each year that coincides with a major climatic cycle.\" To put it more simply, she says, in the years when strong westerly and southerly winds bring cool water rich in nutrients closer to the Australia coast, there is an increase in the number of fish. The whales follow. So what causes mass strandings?",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Rosemary Gales has questioned the research techniques used by the Greek scientists.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "It is known that noise pollution from offshore industry, shipping and sonar can impair underwater communication, but can it really drive whales onto our beaches? In 1998, researchers at the Pelagos Cetacean Research Institute, a Greek non-profit scientific group, linked whale strandings with low-frequency sonar tests being carried out by the North Atlantic Treaty Organisation (NATO). They recorded the stranding of 12 Cuvier's beaked whales over 38.2 kilometres of coastline. NATO later admitted it had been testing new sonar technology in the same area at the time as the strandings had occurred.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "According to Gales, whales are likely to try to help another whale in trouble.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "Whale expert Karen Evans is one such scientist. Another is Rosemary Gales, a leading expert on whale strandings. She says sonar technology cannot always be blamed for mass strandings. \"It's a case-by-case situation.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "There is now agreement amongst scientists that changes in the Earth's magnetic fields contribute to whale strandings.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "They have found trends which could be used to forecast 'bad years' for strandings in the future. In 2005, a survey by Klaus Vanselow and Klaus Ricklefs of sperm whale strandings in the North Sea even found a correlation between these and the sunspot cycle, and suggested that changes in the Earth's magnetic field might be involved. But others are sceptical. \"Their study was interesting ...",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  }
+]

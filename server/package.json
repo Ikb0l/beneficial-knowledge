@@ -1,0 +1,22 @@
+{
+  "name": "beneficial-knowledge-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node ./node_modules/typescript/bin/tsc && node scripts/bundle.js",
+    "build:watch": "node ./node_modules/typescript/bin/tsc -w",
+    "type-check": "node ./node_modules/typescript/bin/tsc --noEmit",
+    "test": "npm run build && node --test tests/**/*.test.js",
+    "test:tournament": "npm run build && node --test tests/tournament/*.test.js",
+    "seed": "node scripts/seed-questions.js",
+    "db:migrate": "powershell -ExecutionPolicy Bypass -File scripts/migrate.ps1",
+    "db:migrate:sh": "sh scripts/migrate.sh"
+  },
+  "dependencies": {
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "esbuild": "^0.19.0"
+  }
+}

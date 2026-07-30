@@ -1,0 +1,27 @@
+[
+  {
+    "question_text": "Which of the following ideas is NOT mentioned in the last paragraph of the passage?",
+    "options": [
+      "indoor plants improve air quality",
+      "indoor plants need regular care",
+      "indoor plants are pleasant to look at",
+      "indoor plants are beneficial for the body and mind"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "explanation": "",
+    "source_reference": "IELTS General Training Practice Test 6",
+    "passage_text": "Meattle notes that it would be ideally placed in bedrooms because it is a nocturnal oxygenator. It also does a good job of absorbing benzene (a commonly used solvent in oils, paints, plastics and rubber), trichloroethylene (a commercial product with a wide variety of uses including inks, paints, adhesives) and formaldehyde, in addition to toluene and xylene. Formaldehyde is a pervasive and abundant chemical found in numerous paper products, particleboard, plywood, synthetic fabrics, carpet, cigarette smoke and heating and cooking fuels. H",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "general_training",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS General Training Practice Test 6"
+    }
+  }
+]

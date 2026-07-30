@@ -1,0 +1,106 @@
+[
+  {
+    "question_text": "Choose the correct heading for: Paragraph B",
+    "options": [
+      "Earning foreign exchange through tourism",
+      "The contribution of air travel to tourism",
+      "The history of travel",
+      "The development of mass tourism"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 1 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "The Context, Meaning and Scope of Tourism A Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration, and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "ii"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3",
+      "item_text": "Paragraph B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph C",
+    "options": [
+      "Economic and social significance of tourism",
+      "The world impact of tourism",
+      "Difficulty in recognising the economic effects of tourism",
+      "Earning foreign exchange through tourism"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 1 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "The Context, Meaning and Scope of Tourism A Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration, and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "i"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3",
+      "item_text": "Paragraph C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph D",
+    "options": [
+      "The world impact of tourism",
+      "Difficulty in recognising the economic effects of tourism",
+      "The history of travel",
+      "Travel for the wealthy"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 1 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "The Context, Meaning and Scope of Tourism A Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration, and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "v"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3",
+      "item_text": "Paragraph D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph E",
+    "options": [
+      "The world impact of tourism",
+      "Economic and social significance of tourism",
+      "The development of mass tourism",
+      "Travel for the wealthy"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 1 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "The Context, Meaning and Scope of Tourism A Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration, and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "vii"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3",
+      "item_text": "Paragraph E"
+    }
+  }
+]

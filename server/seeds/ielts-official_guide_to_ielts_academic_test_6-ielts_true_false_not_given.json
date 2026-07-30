@@ -1,0 +1,98 @@
+[
+  {
+    "question_text": "Extinct megafauna should receive more attention than the extinction of the dinosaurs.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 6",
+    "passage_text": "Across the continent, in boneyards, fossils of a giant snake, a huge flightless bird, and a seven-foot kangaroo, to give some examples, were discovered by scientists. Considering the amount of light cast on the extinction of the dinosaurs, it's surprising that a little has been discovered about megafauna. Prehistoric humans never harmed Tyrannosaurus rex with spears, although they did hunt mammoths and mastodons. B",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 6"
+    }
+  },
+  {
+    "question_text": "There are problems with Paul Martin's 'blitzkrieg' hypothesis for the Americas.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 6",
+    "passage_text": "Soon after the arrival of humans, the extinction of megafauna in America, including mammoths, saber-toothed cats, and gigantic sloths, occurred around 13,000 years ago. A paleoecologist named Paul Martin published a hypothesis known as the \"blitzkrieg hypothesis\" in the 1960s. Modern people caused chaos in the Americas by killing animals with spears. These animals had never seen a smart predator before, so they couldn't defend themselves.But this period of extinction was not complete.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 6"
+    }
+  },
+  {
+    "question_text": "The Aborigines should have found a more effective way to protest about Flannery's book.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 6",
+    "passage_text": "It took Wells a moment to acknowledge that what he was checking out were the bones of thousands of animals that might have fallen from openings in the ground above and gotten stuck. Compared to the mammals found today in Australia, some of the oldest were far more sizable. These bones belonged to Australian megafauna—giant mammals of the Pleistocene epoch. Across the continent, in boneyards, fossils of a giant snake, a huge flightless bird, and a seven-foot kangaroo, to give some examples, were discovered by scientists.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 6"
+    }
+  },
+  {
+    "question_text": "There is sufficient evidence to support Tim Flannery's ideas about megafauna extinction.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 6",
+    "passage_text": "Across the continent, in boneyards, fossils of a giant snake, a huge flightless bird, and a seven-foot kangaroo, to give some examples, were discovered by scientists. Considering the amount of light cast on the extinction of the dinosaurs, it's surprising that a little has been discovered about megafauna. Prehistoric humans never harmed Tyrannosaurus rex with spears, although they did hunt mammoths and mastodons. B",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 6"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "The main idea of the third paragraph is that environmental damage",
+    "options": [
+      "requires political action if it is to be stopped.",
+      "is the result of ignorance on the part of the public.",
+      "could be prevented by the action of ordinary people.",
+      "can only be stopped by educating business leaders."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 15 Academic Test 4",
+    "passage_text": "Environmental practices of big businesses The environmental practices of big businesses are shaped by a fundamental fact that for many of us offends our sense of justice. Depending on the circumstances, a business may maximize the amount of money it makes, at least in the short term, by damaging the environment and hurting people. That is still the case today for fishermen in an unmanaged fishery without quotas, and for international logging companies with short-term leases on tropical rainforest land in places with corrupt officials and unsophisticated landowners. When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 15 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "In the fourth paragraph, the writer describes ways in which the public can",
+    "options": [
+      "reduce their own individual impact on the environment.",
+      "learn more about the impact of business on the environment.",
+      "raise awareness of the effects of specific environmental disasters.",
+      "influence the environmental policies of businesses and governments."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 15 Academic Test 4",
+    "passage_text": "In the long run, it is the public, either directly or through its politicians, that has the power to make such destructive policies unprofitable and illegal, and to make sustainable environmental policies profitable. The public can do that by suing businesses for harming them, as happened after the Exxon Valdez disaster, in which over 40,000 tonnes of oil were spilled off the coast of Alaska. The public may also make their opinion felt by preferring to buy sustainably harvested products; by making employees of companies with poor track records feel ashamed of their company and complain to their own management; by preferring their governments to award valuable contracts to businesses with a good environmental track record; and by pressing their governments to pass and enforce laws and regulations requiring good environmental practices. In turn, big businesses can exert powerful pressure on any suppliers that might ignore public or government pressure.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 15 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What pressure was exerted by big business in the case of the disease BSE?",
+    "options": [
+      "Meat packers stopped supplying hamburgers to fast-food chains.",
+      "A fast-food company forced their meat suppliers to follow the law.",
+      "Meat packers persuaded the government to reduce their expenses.",
+      "A fast-food company encouraged the government to introduce legislation."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 15 Academic Test 4",
+    "passage_text": "The public may also make their opinion felt by preferring to buy sustainably harvested products; by making employees of companies with poor track records feel ashamed of their company and complain to their own management; by preferring their governments to award valuable contracts to businesses with a good environmental track record; and by pressing their governments to pass and enforce laws and regulations requiring good environmental practices. In turn, big businesses can exert powerful pressure on any suppliers that might ignore public or government pressure. For instance, after the US public became concerned about the spread of a disease known as BSE, which was transmitted to humans through infected meat, the US government's Food and Drug Administration introduced rules demanding that the meat industry abandon practices associated with the risk of the disease spreading. But for five years the meat packers refused to follow these, claiming that they would be too expensive to obey.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 15 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What would be the best subheading for this passage?",
+    "options": [
+      "Will the world survive the threat caused by big businesses?",
+      "How can big businesses be encouraged to be less driven by profit?",
+      "What environmental dangers are caused by the greed of businesses?",
+      "Are big businesses to blame for the damage they cause the environment?"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 15 Academic Test 4",
+    "passage_text": "For instance, after the US public became concerned about the spread of a disease known as BSE, which was transmitted to humans through infected meat, the US government's Food and Drug Administration introduced rules demanding that the meat industry abandon practices associated with the risk of the disease spreading. But for five years the meat packers refused to follow these, claiming that they would be too expensive to obey. However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied within weeks. The public's task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains or jewelry stores, but not meat packers or gold miners.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 15 Academic Test 4"
+    }
+  }
+]

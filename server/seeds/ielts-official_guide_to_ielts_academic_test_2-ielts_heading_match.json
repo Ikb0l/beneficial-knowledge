@@ -1,0 +1,158 @@
+[
+  {
+    "question_text": "Choose the correct heading for: A",
+    "options": [
+      "Following the pattern of an earlier development",
+      "Why timescales are impossible to predict",
+      "The ethical issues of robotics",
+      "Not what it seemed to be"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "v"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "A"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: B",
+    "options": [
+      "Not what it seemed to be",
+      "A significant improvement on last time",
+      "Why timescales are impossible to predict",
+      "The ethical issues of robotics"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "ii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: C",
+    "options": [
+      "Following the pattern of an earlier development",
+      "Why timescales are impossible to predict",
+      "How robots can save human lives",
+      "Examples of robots at work"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "viii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: D",
+    "options": [
+      "Examples of robots at work",
+      "The reason why robots rarely move",
+      "Following the pattern of an earlier development",
+      "Why timescales are impossible to predict"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "vii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: E",
+    "options": [
+      "How robots can save human lives",
+      "A significant improvement on last time",
+      "Following the pattern of an earlier development",
+      "Tackling the issue using a different approach"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "i"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "E"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: F",
+    "options": [
+      "Not what it seemed to be",
+      "Examples of robots at work",
+      "How robots can save human lives",
+      "Following the pattern of an earlier development"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings (i-ix) below.",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Dawn of the robots They're already here – driving cars, vacuuming carpets and feeding hospital patients. They may not be walking, talking, human-like sentient beings, but they are clever... and a little creepy. A At first sight it looked like a typical suburban road accident.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iv"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2",
+      "item_text": "F"
+    }
+  }
+]

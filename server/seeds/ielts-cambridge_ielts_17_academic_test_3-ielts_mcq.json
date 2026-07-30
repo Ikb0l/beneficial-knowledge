@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "What point does Shester make about Barr's book in the first paragraph?",
+    "options": [
+      "It gives a highly original explanation for urban development.",
+      "Elements of Barr's research papers are incorporated throughout the book.",
+      "Other books that are available on the subject have taken a different approach.",
+      "It covers a range of factors that affected the development of New York."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 3",
+    "passage_text": "Building the Skyline: The Birth and Growth of Manhattan's Skyscrapers Katharine L. Shester reviews a book by Jason Barr about the development of New York City In Building the Skyline, Jason Barr takes the reader through a detailed history of New York City. The book combines geology, history, economies, and a lot of data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today. Building the Skyline is organized into two distinct parts.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "How does Shester respond to the information in the book about tenements?",
+    "options": [
+      "She describes the reasons for Barr's interest.",
+      "She indicates a potential problem with Barr's analysis.",
+      "She compares Barr's conclusion with that of other writers.",
+      "She provides details about the sources Barr used for his research."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 3",
+    "passage_text": "Building the Skyline: The Birth and Growth of Manhattan's Skyscrapers Katharine L. Shester reviews a book by Jason Barr about the development of New York City In Building the Skyline, Jason Barr takes the reader through a detailed history of New York City. The book combines geology, history, economies, and a lot of data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today. Building the Skyline is organized into two distinct parts.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does Shester say about chapter six of the book?",
+    "options": [
+      "It contains conflicting data.",
+      "It focuses too much on possible trends.",
+      "It is too specialised for most readers.",
+      "It draws on research that is out of date."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 3",
+    "passage_text": "Building the Skyline: The Birth and Growth of Manhattan's Skyscrapers Katharine L. Shester reviews a book by Jason Barr about the development of New York City In Building the Skyline, Jason Barr takes the reader through a detailed history of New York City. The book combines geology, history, economies, and a lot of data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today. Building the Skyline is organized into two distinct parts.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does Shester suggest about the chapters focusing on the 1920s building boom?",
+    "options": [
+      "The information should have been organised differently.",
+      "More facts are needed about the way construction was financed.",
+      "The explanation that is given for the building boom is unlikely.",
+      "Some parts will have limited appeal to certain people."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 3",
+    "passage_text": "While this chapter references empirical research papers, it is a relatively easy read. Chapters eight and nine focus on the birth of Midtown and the building boom of the 1920s. Chapter eight contains lengthy discussions of urban economic theory that may serve as a distraction to readers primarily interested in New York. However, they would be well-suited for undergraduates learning about the economics of cities.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What impresses Shester the most about the chapter on land values?",
+    "options": [
+      "the broad time period that is covered",
+      "the interesting questions that Barr asks",
+      "the nature of the research into the topic",
+      "the recommendations Barr makes for the future"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 3",
+    "passage_text": "Rather, Barr argues that while deeper bedrock does increase foundation costs, these costs were neither prohibitively high nor were they large compared to the overall cost of building a skyscraper. What I enjoyed the most about this chapter was Barr's discussion of how foundations are actually built. He describes the use of caissons, which enable workers to dig down. for considerable distances, often below the water table, until they reach bedrock.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 3"
+    }
+  }
+]

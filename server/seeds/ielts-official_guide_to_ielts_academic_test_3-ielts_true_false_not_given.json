@@ -1,0 +1,290 @@
+[
+  {
+    "question_text": "Commuters are often compared favourably with worker ants.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "Unlike many mammals they do not engage in human-like behaviour. The way they swarm or flock together does not usually get good press coverage either: marching like worker ants might be a common simile for city commuters, but it's a damning, not positive, image. Yet a new school of scientific theory suggests that these swarms might have a lot to teach us. American author Peter Miller explains, 'I used to think that individual ants knew where they were going, and what they were supposed to do when they got there.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Some ants within a colony have leadership roles.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "The faster the foragers come back, the more food there is and the faster other foragers go out, until gradually the amount of food being brought back diminishes. An organic calculation has been made to answer the question, 'How many foragers does the colony need today?' And if something goes wrong – a hungry lizard prowling around for an ant snack, for instance – then a rush of ants returning without food sends waiting reserves a 'Don't go out' signal. But could such decentralised control work in a human organisation? Miller visited a Texas gas company that has successfully applied formulas based on ant colony behaviour to 'optimise its factories and route its trucks'.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Forager ants tell each other how far away the food source is.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "Take food collecting, for example. No ant decides, 'There's lots of food around today; lots of ants should go out to collect it.' Instead, some forager ants go out, and as soon as they find food, they pick it up and come back to the nest. At the entrance, they brush past reserve foragers, sending a 'go out' signal. The faster the foragers come back, the more food there is and the faster other foragers go out, until gradually the amount of food being brought back diminishes.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Forager ants are able to react quickly to a dangerous situation.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "Take food collecting, for example. No ant decides, 'There's lots of food around today; lots of ants should go out to collect it.' Instead, some forager ants go out, and as soon as they find food, they pick it up and come back to the nest. At the entrance, they brush past reserve foragers, sending a 'go out' signal. The faster the foragers come back, the more food there is and the faster other foragers go out, until gradually the amount of food being brought back diminishes.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Termite mounds can be damaged by the wind.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "The Internet is also an area where we are increasingly exhibiting swarm behaviour, without any physical contact. Miller compares a wiki website, for example, to a termite mound. Indirect collaboration is the key principle behind information-sharing web sites, just as it underlies the complex constructions that termites build. Termites do not have an architect's blueprint or a grand construction scheme.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Termites repair their mounds without directly communicating with each other.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "'The best example of shared decision-making that I witnessed during my research was a town meeting I attended in Vermont, where citizens met face-to-face to debate their annual budget,' explains Miller. 'For group decision-making to work well, you need a way to sort through the various options they propose; and you need a mechanism to narrow down these options.' Citizens in Vermont control their municipal affairs by putting forward proposals, or backing up others' suggestions, until a consensus is reached through a vote. As with the bees, the broad sampling of options before a decision is made will usually result in a compromise acceptable to all. The 'wisdom of the crowd' makes clever decisions for the good of the group – and leaves citizens feeling represented and respected.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Conversation occupies much of our time.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "When conversations flow We spend a large part of our daily life talking with other people and, consequently, we are very accustomed to the art of conversing. But why do we feel comfortable in conversations that have flow, but get nervous and distressed when a conversation is interrupted by unexpected silences? To answer this question we will first look at some of the effects of conversational flow. Then we will explain how flow can serve different social needs.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "People assess information according to how readily they can understand it.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "The positive consequences of conversational flow show some similarities with the effects of 'processing fluency'. Research has shown that processing fluency – the ease with which people process information – influences people's judgments across a broad range of social dimensions. For instance, people feel that when something is easily processed, it is more true or accurate. Moreover, they have more confidence in their judgments regarding information that came to them fluently, and they like things that are easy to process more than things that are difficult to process.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "A quick response to a question is thought to show a lack of knowledge.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "Moreover, they have more confidence in their judgments regarding information that came to them fluently, and they like things that are easy to process more than things that are difficult to process. Research indicates that a speaker is judged to be more knowledgeable when they answer questions instantly; responding with disfluent speech markers such as 'uh' or 'um' or simply remaining silent for a moment too long can destroy that positive image. One of the social needs addressed by conversational flow is the human need for 'synchrony' – to be 'in sync' or in harmony with one another. Many studies have shown how people attempt to synchronize with their partners, by coordinating their behavior.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Video observations have often been used to assess conversational flow.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "In conversations, interpersonal coordination is found when people adjust the duration of their utterances and their speech rate to one another so that they can enable turn-taking to occur, without talking over each other or experiencing awkward silences. Since people are very well-trained in having conversations, they are often able to take turns within milliseconds, resulting in a conversational flow of smoothly meshed behaviors. A lack of flow is characterized by interruptions, simultaneous speech or mutual silences. Avoiding these features is important for defining and maintaining interpersonal relationships.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "People who talk less often have clearer ideas than those who talk a lot.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "Because people are generally so well-trained in having smooth conversations, any disruption of this flow indicates that something is wrong, either interpersonally or within the group as a whole. Consequently, people who do not talk very easily may be incorrectly understood as being less agreeable than those who have no difficulty keeping up a conversation. On a societal level, one could even imagine that a lack of conversational flow may hamper the integration of immigrants who have not completely mastered the language of their new country yet. In a similar sense, the ever-increasing number of online conversations may be disrupted by misinterpretations and anxiety that are produced by insuperable delays in the Internet connection.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Delays in online chat fail to have the same negative effect as disruptions that occur in natural conversation.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "On a societal level, one could even imagine that a lack of conversational flow may hamper the integration of immigrants who have not completely mastered the language of their new country yet. In a similar sense, the ever-increasing number of online conversations may be disrupted by misinterpretations and anxiety that are produced by insuperable delays in the Internet connection. Keeping in mind the effects of conversational flow for feelings of belonging and validation may help one to be prepared to avoid such misunderstandings in future conversations.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3"
+    }
+  }
+]

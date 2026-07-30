@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "More houses are built of wood in Australia than in the USA.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "That these magnificent structures have survived for over a thousand years is evidence of wood's strength and durability as a building material. Still today, 80% of houses in the USA are built of wood. In Australia the proportion is slightly smaller since stone is also a popular choice, particularly in the southern states, while in New Zealand the figure is more like 85%. Certainly, there are problems associated with wooden constructions: wood can rot when exposed to water and is said to be a fire risk.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "There are solutions to the problems of building with wood.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "In Australia the proportion is slightly smaller since stone is also a popular choice, particularly in the southern states, while in New Zealand the figure is more like 85%. Certainly, there are problems associated with wooden constructions: wood can rot when exposed to water and is said to be a fire risk. However, with modern technology these issues can be eliminated, which has led to a dramatic renewal of interest in wood as a building material in recent years. Today, architects and engineers recognise the potential of wood not only for private homes but also for larger multi-storey offices and apartment blocks.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Several different species of tree were used to construct the HoHo building.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Once the cutting work was complete, all the wooden components were taken to the site for assembly. The building was constructed one storey at a time, layer upon layer, not unlike the system used to make a large cake. Once the eighth and final storey was completed, the building reached a height of 30 metres and became a notable landmark in its neighbourhood. And, of course, one of the great advantages of wood comes at the end of a building's life, in around 100 years' time.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Research at the Technical Institute in Graz improved wooden building technology.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Although the HoHo building has a concrete core, most of the structure as well as the floors are built of wood. Many of these advances have been made possible by research at the Technical Institute in Graz, Austria, where new engineering systems based on wood construction have been pioneered. A good example of these techniques is found at the Wood Innovation and Design Centre at the University of Northern British Columbia, Canada. The first stage in the construction of the building saw large planks of Douglas fir being fastened to one another with glue, which these days can be stronger than nails or screws.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Sales of crime fiction were surprisingly high at a recent London Book Fair.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "The Influence of the Crime Writer Agatha Christie Crime fiction books, in which detectives hunt for the perpetrators of crimes, have been popular with readers for many decades - so popular, in fact, that at a recent London Book Fair sales of the genre overtook general fiction for the first time ever, a development that had been widely anticipated. Commercial success, of course, does not impress everyone and there are those who believe crime fiction should not be held in such high regard. Prominent in this group is Sebastian Franklin, who has argued that most crime fiction books better resemble crossword puzzles than literature. His view is shared by other literary critics.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Literary critics such as Sebastian Franklin think that crime fiction is overrated.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Commercial success, of course, does not impress everyone and there are those who believe crime fiction should not be held in such high regard. Prominent in this group is Sebastian Franklin, who has argued that most crime fiction books better resemble crossword puzzles than literature. His view is shared by other literary critics. However, increasingly this is a minority opinion as crime fiction becomes recognised around the world as a rich and dynamic literary genre in its own right.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Agatha Christie and James M. Cain admired each other's writing.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "However, increasingly this is a minority opinion as crime fiction becomes recognised around the world as a rich and dynamic literary genre in its own right. Crime writing really came to prominence in the 1920s and 30s with the books of the British author Agatha Christie, and to a slightly lesser extent the American James M. Cain. Agatha Christie was a prolific writer, publishing more than 60 detective novels over a 50-year period, beginning in 1920.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Most people know about Christie from films rather than books.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Agatha Christie was a prolific writer, publishing more than 60 detective novels over a 50-year period, beginning in 1920. However, the majority of the general public have never picked up one of her books and are more familiar with Christie from the numerous adaptations of her work for films. The colourful locations around the world where Christie set many of her stories were not fictional depictions, but were informed by her extensive travels, on the Orient Express train, to Cairo and the River Nile, and elsewhere. Her memoir, Come, Tell Me How You Live , published in 1946, is a non-fiction account of these real-life travels, so is unique among Christie's publications.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Christie's descriptions of international locations were based on her own experience.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "However, the majority of the general public have never picked up one of her books and are more familiar with Christie from the numerous adaptations of her work for films. The colourful locations around the world where Christie set many of her stories were not fictional depictions, but were informed by her extensive travels, on the Orient Express train, to Cairo and the River Nile, and elsewhere. Her memoir, Come, Tell Me How You Live , published in 1946, is a non-fiction account of these real-life travels, so is unique among Christie's publications. Success brought Christie considerable wealth and international fame, though she never lost her appetite for work, continuing writing and publishing until shortly before her death in 1976.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "Christie enjoyed the wealth and fame she achieved through writing.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Her memoir, Come, Tell Me How You Live , published in 1946, is a non-fiction account of these real-life travels, so is unique among Christie's publications. Success brought Christie considerable wealth and international fame, though she never lost her appetite for work, continuing writing and publishing until shortly before her death in 1976. Without doubt there are certain elements that tend to be repeated in Christie's books. The stories generally revolve around a well-off if not aristocratic circle of people, whose privileged lives are thrown into chaos by an unexplained crime.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  }
+]

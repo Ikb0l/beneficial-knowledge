@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "The example of the 'million-dollar quartet' underlines the writer's point about",
+    "options": [
+      "recognising talent.",
+      "working as a team.",
+      "having a shared objective.",
+      "being an effective leader."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 1",
+    "passage_text": "The 1956 picture of singers Elvis Presley, Carl Perkins, Johnny Cash and Jerry Lee Lewis jamming at a piano in Sun Studios in Memphis tells a hidden story. Sun's 'million-dollar quartet' could have been a quintet. Missing from the picture is Roy Orbison, a greater natural singer than Lewis, Perkins or Cash. Sam Phillips, who owned Sun, wanted to revolutionise popular music with songs that fused black and white music, and country and blues.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "James Watson suggests that he and Francis Crick won the race to discover the DNA code because they",
+    "options": [
+      "were conscious of their own limitations.",
+      "brought complementary skills to their partnership.",
+      "were determined to outperform their brighter rivals.",
+      "encouraged each other to realise their joint ambition."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 1",
+    "passage_text": "'It's been scientifically proven that three people will be better than one at solving problems, even if that one person is the smartest person in the field.' To prove his point, Cialdini cites an interview with molecular biologist James Watson. Watson, together with Francis Crick, discovered the structure of DNA, the genetic information carrier of all living organisms. 'When asked how they had cracked the code ahead of an array of highly accomplished rival investigators, he said something that stunned me. He said he and Crick had succeeded because they were aware that they weren't the most intelligent of the scientists pursuing the answer.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "The writer mentions competitions on breakfast cereal packets as an example of how to",
+    "options": [
+      "inspire creative thinking.",
+      "generate concise writing.",
+      "promote loyalty to a group.",
+      "strengthen commitment to an idea."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 1",
+    "passage_text": "Cialdini cites scores of research papers and historical events that prove that even something as simple as writing deepens every individual's engagement in the project. It is, he says, the reason why all those competitions on breakfast cereal packets encouraged us to write in saying, in no more than 10 words: 'I like Kellogg's Corn Flakes because… .' The very act of writing makes us more likely to believe it. Authority doesn't have to inhibit innovation but it often does. The wrong kind of leadership will lead to what Cialdini calls \"captainitis, the regrettable tendency of team members to opt out of team responsibilities that are properly theirs'.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "In the last paragraph, the writer suggests that it is important for employees to",
+    "options": [
+      "be aware of their company's goals.",
+      "feel that their contributions are valued.",
+      "have respect for their co-workers' achievements.",
+      "understand why certain management decisions are made."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 1",
+    "passage_text": "Many theorists believe the ideal boss should lead from behind, taking pride in collective accomplishment and giving credit where it is due. Cialdini says: \"Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and will be given full attention.\". The frustrating thing about innovation is that there are many approaches, but no magic formula. However, a manager who wants to create a truly innovative culture can make their job a lot easier by recognising these psychological realities.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 1"
+    }
+  }
+]

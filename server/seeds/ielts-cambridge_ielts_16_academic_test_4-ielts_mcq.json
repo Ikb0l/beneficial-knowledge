@@ -1,0 +1,177 @@
+[
+  {
+    "question_text": "What is the writer's main point in the first paragraph?",
+    "options": [
+      "Our use of technology is having a hidden effect on us.",
+      "Technology can be used to help youngsters to read.",
+      "Travellers should be encouraged to use technology on planes.",
+      "Playing games is a more popular use of technology than reading."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "Changes in reading habits What are the implications of the way we read today? Look around on your next plane trip. The iPad is the new pacifier for babies and toddlers. Younger school-aged children read stories on smartphones; older kids don't read at all, but hunch over video games.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What main point does Sherry Turkle make about innovation?",
+    "options": [
+      "Technological innovation has led to a reduction in print reading.",
+      "We should pay attention to what might be lost when innovation occurs.",
+      "We should encourage more young people to become involved in innovation.",
+      "There is a difference between developing products and developing ideas."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "This is not a simple, binary issue of print versus digital reading and technological innovation. As MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when we ignore what we disrupt or diminish while innovating. In this hinge moment between print and digital cultures, society needs to confront what is diminishing in the expert reading circuit, what our children and older students are not developing, and what we can do about it. We know from research that the reading circuit is not given to human beings through a genetic blueprint like vision or language; it needs an environment to develop.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What point is the writer making in the fourth paragraph?",
+    "options": [
+      "Humans have an inborn ability to read and write.",
+      "Reading can be done using many different mediums.",
+      "Writing systems make unexpected demands on the brain.",
+      "Some brain circuits adjust to whatever is required of them."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "Changes in reading habits What are the implications of the way we read today? Look around on your next plane trip. The iPad is the new pacifier for babies and toddlers. Younger school-aged children read stories on smartphones; older kids don't read at all, but hunch over video games.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "According to Mark Edmundson, the attitude of college students",
+    "options": [
+      "has changed the way he teaches.",
+      "has influenced what they select to read.",
+      "does not worry him as much as it does others.",
+      "does not match the views of the general public."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "Increasing reports from educators and from researchers in psychology and the humanities bear this out. English literature scholar and teacher Mark Edmundson describes how many college students actively avoid the classic literature of the 19th and 20th centuries in favour of something simpler as they no longer have the patience to read longer, denser, more difficult texts. We should be less concerned with students' 'cognitive impatience', however, than by what may underlie it: the potential inability of large numbers of students to read with a level of critical analysis sufficient to comprehend the complexity of thought and argument found in more demanding texts. Multiple studies show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension in older high school and college students.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What is the writer doing in Section A?",
+    "options": [
+      "providing a solution to a concern",
+      "justifying an opinion about an issue",
+      "highlighting the existence of a problem",
+      "explaining the reasons for a phenomenon"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see much point in Watson's recommendations. The supercomputer was simply telling them what they already knew, and these recommendations did not change the actual treatment. On the other hand, if Watson generated a recommendation that contradicted the experts' opinion, doctors would typically conclude that Watson wasn't competent. And the machine wouldn't be able to explain why its treatment was plausible because its machine-learning algorithms were simply too complex to be fully understood by humans.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "According to Section C, why might some people be reluctant to accept AI?",
+    "options": [
+      "They are afraid it will replace humans in decision-making jobs.",
+      "Its complexity makes them feel that they are at a disadvantage.",
+      "They would rather wait for the technology to be tested over a period of time.",
+      "Misunderstandings about how it works make it seem more challenging than it is."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "If we want AI to really benefit people, we need to find a way to get people to trust it. To do that, we need to understand why people are so reluctant to trust AI in the first place. B Take the case of Watson for Oncology, one of technology giant IBM's supercomputer programs.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What does the writer say about the media in Section C of the text?",
+    "options": [
+      "It leads the public to be mistrustful of AI.",
+      "It devotes an excessive amount of attention to AI.",
+      "Its reports of incidents involving AI are often inaccurate.",
+      "It gives the impression that AI failures are due to designer error."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 4",
+    "passage_text": "Another solution may be to reveal more about the algorithms which AI uses and the purposes they serve. Several high-profile social media companies and online marketplaces already release transparency reports about government requests and surveillance disclosures. A similar practice for AI could help people have a better understanding of the way algorithmic decisions are made. F",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 4"
+    }
+  }
+]

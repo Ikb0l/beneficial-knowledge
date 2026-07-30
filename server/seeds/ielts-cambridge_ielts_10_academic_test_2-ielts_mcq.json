@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "The writer mentions London's National Gallery to illustrate",
+    "options": [
+      "the undesirable cost to a nation of maintaining a huge collection of art.",
+      "the conflict that may arise in society between financial and artistic values.",
+      "the negative effect a museum can have on visitors' opinions of themselves.",
+      "the need to put individual well-being above large-scale artistic schemes."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 2",
+    "passage_text": "In many cases, the architectural style of the building further reinforces that notion. In addition, a major collection like that of London's National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses. In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment. Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "The writer says that today, viewers may be unwilling to criticise a work because",
+    "options": [
+      "they lack the knowledge needed to support an opinion.",
+      "they fear it may have financial implications.",
+      "they have no real concept of the work's value.",
+      "they feel their personal reaction is of no significance."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 2",
+    "passage_text": "Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves. Evidently, nothing the viewer thinks about the work is going to alter that value, and so today's viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work. The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created. This 'displacement effect' is further heightened by the sheer volume of exhibits.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "According to the writer, the 'displacement effect' on the visitor is caused by",
+    "options": [
+      "the variety of works on display and the way they are arranged.",
+      "the impossibility of viewing particular works of art over a long period.",
+      "the similar nature of the paintings and the lack of great works.",
+      "the inappropriate nature of the individual works selected for exhibition."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 2",
+    "passage_text": "The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created. This 'displacement effect' is further heightened by the sheer volume of exhibits. In the case of a major collection, there are probably more works on display than we could realistically view in weeks or even months. This is particularly distressing because time seems to be a vital factor in the appreciation of all art forms.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "The writer says that unlike other forms of art, a painting does not",
+    "options": [
+      "involve direct contact with an audience.",
+      "require a specific location for a performance.",
+      "need the involvement of other professionals.",
+      "have a specific beginning or end."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 2",
+    "passage_text": "This is particularly distressing because time seems to be a vital factor in the appreciation of all art forms. A fundamental difference between paintings and other art forms is that there is no prescribed time over which a painting is viewed. By contrast, the audience encounters an opera or a play over a specific time, which is the duration of the performance. Similarly, novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 2"
+    }
+  }
+]

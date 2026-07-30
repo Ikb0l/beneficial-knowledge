@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "When staying in New York, the writer is frustrated by the fact that",
+    "options": [
+      "healthy food cannot easily be obtained.",
+      "bad road design causes daily traffic problems.",
+      "certain venues cannot be reached by foot.",
+      "visitors are all directed to the same kinds of place."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 2",
+    "passage_text": "Certain problems associated with urban living have been highlighted by research company Richmond-Carver in its latest global survey. At the top of the list survey respondents’ concerns is the fact that competition amongst tenants for rental properties has driven the median price up – so much so people need to hold down two or more jobs to meet all their expenses. Another issue the survey highlighted is the difficulty commuters face. Overcrowding means that seats are often not available on long journeys, but more significant is that schedules are unreliable.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What point does the writer make about the use of security features?",
+    "options": [
+      "It greatly reduces levels if criminal activity.",
+      "It helps create a sense of community.",
+      "It discourages people form taking exercises.",
+      "It creates unnecessary fear among residents."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 2",
+    "passage_text": "Sometimes these basic needs are misunderstood. In some urban areas, new residential developments are provided with security features such as massive metal fences and multiple gates in the belief that these will make residents safer. There is little evidence such steps make a difference in this way, but we do know they make residents feel reluctant to go outside and walk around their neighbourhood. Instead they are more likely to remain inactive indoors.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "According to the writer, the problem with some planners and developers is that they",
+    "options": [
+      "distrust the use of certain technologies for communication.",
+      "create buildings using traditional construction methods.",
+      "tend to put profits before the needs of residents.",
+      "rely on the opinions of a narrow range of people."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 2",
+    "passage_text": "Sometimes these basic needs are misunderstood. In some urban areas, new residential developments are provided with security features such as massive metal fences and multiple gates in the belief that these will make residents safer. There is little evidence such steps make a difference in this way, but we do know they make residents feel reluctant to go outside and walk around their neighbourhood. Instead they are more likely to remain inactive indoors.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What is the writer doing in the fifth paragraph?",
+    "options": [
+      "explaining which construction materials are most sustainable",
+      "emphasising the importance of clever design in small spaces",
+      "comparing reasons for choosing to live in an unusual building",
+      "proposing which specific urban locations should be developed"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 2",
+    "passage_text": "So where are planners and developers going wrong? Inviting a group of locals to attend a consultation event is the conventional method for discovering what a community might want. The issue here is that it often attracts the same few voices with the same few wishes. But the internet now makes it possible for others to contribute.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 2"
+    }
+  }
+]

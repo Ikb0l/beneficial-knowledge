@@ -1,0 +1,77 @@
+[
+  {
+    "question_text": "What is the reviewer's attitude to advocates of positive psychology?",
+    "options": [
+      "They are wrong to reject the ideas of Bentham.",
+      "They are over-influenced by their study of Bentham's theories.",
+      "They have a fresh new approach to ideas on human happiness.",
+      "They are ignorant about the ideas they should be considering."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 4",
+    "passage_text": "For Layard and others like him, it is obvious that the purpose of government is to promote state of collective well-being. The only question is how to achieve it, and here positive psychology - a supposed science that not only identifies what makes people happy but also allows their happiness to be measured - can show the way. Equipped with this science, they say, governments can secure happiness in society in a way they never could in the past. It is an astonishingly crude and simple-minded way of thinking, and for that very reason increasingly popular.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The reviewer refers to the Greek philosopher Aristotle in order to suggest that happiness",
+    "options": [
+      "may not be just pleasure and the absence of pain.",
+      "should not be the main goal of humans.",
+      "is not something that should be fought for.",
+      "is not just an abstract concept."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 4",
+    "passage_text": "For Bentham it was obvious that the human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the school of moral theory he established - since they are by education and intellectual conviction illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human happiness to date. But as William Davies notes in his recent book The Happiness Industry, the view that happiness is the only self-evident good is actually a way of limiting moral inquiry.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "According to Davies, Bentham's suggestion for linking the price of goods to happiness was significant because",
+    "options": [
+      "it was the first successful way of assessing happiness.",
+      "it established a connection between work and psychology.",
+      "it was the first successful example of psychological research.",
+      "it involved consideration of the rights of consumers."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 4",
+    "passage_text": "Book Review The Happiness Industry: How the Government and Big Business Sold Us Well-Being By William Davies 'Happiness is the ultimate goal because it is self-evidently good. If we are asked why happiness matters we can give no further external reason. It just obviously does matter.' This pronouncement by Richard Layard, an economist and advocate of 'positive psychology', summarises the beliefs of many people today. For Layard and others like him, it is obvious that the purpose of government is to promote state of collective well-being.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 4"
+    }
+  }
+]

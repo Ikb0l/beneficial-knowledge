@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "What does the writer state about the ISS in the first paragraph?",
+    "options": [
+      "Its manufacture has remained within the proposed budget.",
+      "It is a great example of technological achievement.",
+      "There are doubts about the speed it has attained.",
+      "NASA should have described its purpose more accurately."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "Lengthy delays like this are one of the key challenges for NASA, according to an April 2011 report from the US National Academy of Sciences. Its authors said they were 'deeply concerned' about the state of NASA's science research, and made a number of recommendations. Besides suggesting that the agency reduces the time between approving experiments and sending them into space, it also recommended setting clearer research priorities. NASA has already begun to take action, hiring management consultants ProOrbis to develop a plan to cut through the bureaucracy.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "What are we told about Satoshi Iwase's experimental machine?",
+    "options": [
+      "It is based on conventional exercise equipment.",
+      "It was originally commissioned by NASA.",
+      "It is designed only to work in low-gravity environments.",
+      "It has benefits that Iwase did not anticipate."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "This question was addressed at the recent 1st annual ISS research and development conference in Colorado. Among the presenters was Satoshi Iwase of Aichi Medical University in Japan who has spent several years developing an experiment that could help solve one of the key problems that humans will face in space: keeping our bodies healthy in weightlessness. One thing that physiologists have learned is that without gravity our bodies begin to lose strength, leaving astronauts with weakened bones, muscles and cardiovascular systems. To counter these effects on a long-duration mission to, say, Mars, astronauts will almost certainly need to create their own artificial gravity.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "The writer refers to the Hubble Space Telescope in order to",
+    "options": [
+      "show why investment in space technology has decreased.",
+      "highlight the need to promote the ISS in a positive way.",
+      "explain which kind of projects are more likely to receive funding.",
+      "justify the time required for a space project to produce results."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "One of CASIS's roles is to convince public and private investors that science on the station is worth the spend because judged solely by the number of papers published, the ISS certainly seems poor value: research on the station has generated about 3,100 papers since 1998. The Hubble Space Telescope, meanwhile, has produced more than 11,300 papers in just over 20 years, yet it cost less than one-tenth of the price of the space station. Yet Mark Uhran, assistant associate administrator for the ISS, refutes the criticism that the station hasn't done any useful research. He points to progress made on a salmonella vaccine, for example.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "In the sixth paragraph, we are told that CASIS has",
+    "options": [
+      "rejected certain applications for experiments on the ISS.",
+      "expressed concern about testing products used for profit.",
+      "questioned the benefits of some of the projects currently on the ISS.",
+      "invited researchers to suggest certain health-based projects."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "And Congress also directed NASA to hire an independent organisation, the Centre for the Advancement of Science in Space (CASIS), to help manage the station's US lab facilities. One of CASIS's roles is to convince public and private investors that science on the station is worth the spend because judged solely by the number of papers published, the ISS certainly seems poor value: research on the station has generated about 3,100 papers since 1998. The Hubble Space Telescope, meanwhile, has produced more than 11,300 papers in just over 20 years, yet it cost less than one-tenth of the price of the space station. Yet Mark Uhran, assistant associate administrator for the ISS, refutes the criticism that the station hasn't done any useful research.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  },
+  {
+    "question_text": "The writer's purpose in writing this article is to",
+    "options": [
+      "promote the advantages of space flight in general.",
+      "illustrate how the ISS could become more effective.",
+      "criticise the ISS for its narrow-minded attitude.",
+      "contrast useful and worthless space projects."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 5",
+    "passage_text": "So where should its future priorities lie? This question was addressed at the recent 1st annual ISS research and development conference in Colorado. Among the presenters was Satoshi Iwase of Aichi Medical University in Japan who has spent several years developing an experiment that could help solve one of the key problems that humans will face in space: keeping our bodies healthy in weightlessness. One thing that physiologists have learned is that without gravity our bodies begin to lose strength, leaving astronauts with weakened bones, muscles and cardiovascular systems.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 5"
+    }
+  }
+]

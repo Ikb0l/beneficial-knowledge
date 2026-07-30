@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "What did the 2006 discovery of the animal bone reveal about the lynx?",
+    "options": [
+      "Its physical appearance was very distinctive.",
+      "Its extinction was linked to the spread of farming.",
+      "It vanished from Britain several thousand years ago.",
+      "It survived in Britain longer than was previously thought."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 4",
+    "passage_text": "But what was it? Nothing seemed to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England. Until this discovery, the lynx - a large spotted cat with tasselled ears - was presumed to have died out in Britain at least 6,000 years ago, before the inhabitants of these islands took up farming. But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious llewyn were in fact one and the same animal.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What point does the writer make about large predators in the third paragraph?",
+    "options": [
+      "Their presence can increase biodiversity.",
+      "They may cause damage to local ecosystems.",
+      "Their behaviour can alter according to the environment.",
+      "They should be reintroduced only to areas where they were native."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 4",
+    "passage_text": "Above all, it means bringing back missing species. One of the most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them. Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive. The killers turn out to be bringers of life.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What does the writer suggest about British conservation in the fourth paragraph?",
+    "options": [
+      "It has failed to achieve its aims.",
+      "It is beginning to change direction.",
+      "It has taken a misguided approach.",
+      "It has focused on the most widespread species."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 4",
+    "passage_text": "The killers turn out to be bringers of life. Such findings present a big challenge to British conservation, which has often selected arbitrary assemblages of plants and animals and sought, at great effort and expense, to prevent them from changing. It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development. But ecosystems are not merely collections of species; they are also the dynamic and ever-shifting relationships between them.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Protecting large areas of the sea from commercial fishing would result in",
+    "options": [
+      "practical benefits for the fishing industry.",
+      "some short-term losses to the fishing industry.",
+      "widespread opposition from the fishing industry.",
+      "certain changes to techniques within the fishing industry."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 4",
+    "passage_text": "And this dynamism often depends on large predators. At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and sperm whales, within sight of the English shore. This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests. Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "According to the author, what distinguishes rewilding from other environmental campaigns?",
+    "options": [
+      "Its objective is more achievable.",
+      "Its supporters are more articulate.",
+      "Its positive message is more appealing.",
+      "It is based on sounder scientific principles."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 4",
+    "passage_text": "This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests. Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against. One of the reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement's usual promise of 'Follow us and the world will be slightly less awful than it would otherwise have been.' The lynx presents no threat to human beings: there is no known instance of one preying on people.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 4"
+    }
+  }
+]
