@@ -72,3 +72,7 @@ uploads/
 *.p12
 *.pfx
 .firebase-sa.json
+.idea/
+.vscode/
+.agents/
+.codex/
