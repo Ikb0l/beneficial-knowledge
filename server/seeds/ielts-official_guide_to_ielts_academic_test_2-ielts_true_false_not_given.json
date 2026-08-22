@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "Doctors make decisions according to the symptoms that a patient describes.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "As we move from the industrial age to the information age, societal demands on our mental capabilities are no less taxing ... We are constantly required to process a wide range of information to make decisions. Sometimes, these decisions are trivial, such as what marmalade to buy. At other times, the stakes are higher, such as deciding which symptoms to report to the doctor.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Our ability to deal with a lot of input material has improved over time.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "the passing of the door). Over the past decade, the change blindness phenomenon has been replicated many times. Especially noteworthy is an experiment by Davies and Hine (2007) who studied whether change blindness affects eyewitness identification. Specifically, participants were presented with a video enactment of a burglary.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2"
+    }
+  },
+  {
+    "question_text": "We tend to know when we have made an error of judgement.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "However, the fact that we are accustomed to processing large amounts of information does not mean that we are better at it (Chabris & Simons, 2009). Our sensory and cognitive systems have systematic ways of failing of which we are often, perhaps blissfully, unaware. Imagine that you are taking a walk in your local city park when a tourist approaches you asking for directions. During the conversation, two men carrying a door pass between the two of you.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2"
+    }
+  },
+  {
+    "question_text": "A legal trial could be significantly affected by change blindness.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "Harvard psychologists Simons and Levi (1998) conducted a field study using this exact set-up and found that the change in identity went unnoticed by 7 (46.6%) of the 15 participants. This phenomenon has been termed 'change blindness' and refers to the difficulty that observers have in noticing changes to visual scenes (e.g. the person swap), when the changes are accompanied by some other visual disturbance (e.g. the passing of the door).",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Scientists have concluded that we try to take in as much detail as possible from our surroundings.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 2",
+    "passage_text": "In the study described above, participants were likely not to have been expecting the change to happen, and so their attention may have been focused on the valuables the burglar was stealing, rather than the burglar. Drawing from change blindness research, scientists have come to the conclusion that we perceive the world in much less detail than previously thought (Johansson, Hall, & Sikström, 2008). Rather than monitoring all of the visual details that surround us, we seem to focus our attention only on those features that are currently meaningful or important, ignoring those that are irrelevant to our current needs and goals. Thus at any given time, our representation of the world surrounding us is crude and incomplete, making it possible for changes or manipulations to go undetected (Chabris & Simons, 2010).",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 2"
+    }
+  }
+]

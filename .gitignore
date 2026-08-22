@@ -1,0 +1,74 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.iml
+
+# Environment files (keep .example)
+.env
+.env.local
+.env.production
+.env.production.ready
+.env.*.local
+
+# Build outputs
+build/
+server/build/
+
+# Windows artifacts
+nul
+
+# Claude Code local settings
+.claude/
+
+# Host-only configuration, generated output, backups, and private material
+.env
+.env.*
+!.env.example
+!.env.*.example
+.bin/
+node_modules/
+dist/
+build/
+coverage/
+tmp/
+backups/
+.backups/
+deploy-backups/
+deploy-uploads/
+uploads/
+*.tar.gz
+*.tgz
+*.zip
+*.orig
+*.bak-*
+*.bak.*
+*.backup-*
+*.rollback.*
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.firebase-sa.json

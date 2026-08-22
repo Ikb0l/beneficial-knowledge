@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the writer's main point in the first paragraph?",
+    "options": [
+      "Photography is used for many different purposes.",
+      "Photographers and artists have the same principal aims.",
+      "Photography has not always been a readily accepted art form.",
+      "Photographers today are more creative than those of the past."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 1",
+    "passage_text": "IS PHOTOGRAPHY ART? This may seem a pointless question today. Surrounded as we are by thousands of photographs, most of us take for granted that, in addition to supplying information and seducing customers, camera images also serve as decoration, afford spiritual enrichment, and provide significant insights into the passing scene. But in the decades following the discovery of photography, this question reflected the search for ways to fit the mechanical medium into the traditional schemes of artistic expression.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What public view about artists was shared by the French and the English?",
+    "options": [
+      "that only artists could reflect a culture's true values",
+      "that only artists were qualified to judge photography",
+      "that artists could lose work as a result of photography",
+      "that artistic success raised a country's international profile"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 1",
+    "passage_text": "But in the decades following the discovery of photography, this question reflected the search for ways to fit the mechanical medium into the traditional schemes of artistic expression. The much-publicized pronouncement by painter Paul Delaroche that the daguerreotype* signalled the end of painting is perplexing because this clever artist also forecast the usefulness of the medium for graphic artists in a letter written in 1839. Nevertheless, it is symptomatic of the swing between the outright rejection and qualified acceptance of the medium that was fairly typical of the artistic establishment. Discussion of the role of photography in art was especially spirited in France, where the internal policies of the time had created a large pool of artists, but it was also taken up by important voices in England.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What does the writer mean in line 59 by 'the handwriting on the wall'?",
+    "options": [
+      "an example of poor talent",
+      "a message that cannot be trusted",
+      "an advertisement for something new",
+      "a signal that something bad will happen"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 1",
+    "passage_text": "Artists reacted to photography in various ways. Many portrait painters – miniaturists in particular – who realized that photography represented the ‘handwriting on the wall' became involved with daguerreotyping or paper photography in an effort to save their careers; some incorporated it with painting, while others renounced painting altogether. Still other painters, the most prominent among them the French painter, Jean-Auguste-Dominique Ingres, began almost immediately to use photography to make a record of their own output and also to provide themselves with source material for poses and backgrounds, vigorously denying at the same time its influence on their vision or its claims as art. The view that photographs might be worthwhile to artists was enunciated in considerable detail by Lacan and Francis Wey.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What was the result of the widespread availability of photographs to the middle classes?",
+    "options": [
+      "The most educated worried about its impact on public taste.",
+      "It helped artists appreciate the merits of photography.",
+      "Improvements were made in photographic methods.",
+      "It led to a reduction in the price of photographs."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 1",
+    "passage_text": "In London, for example, there were at the time some 130 commercial establishments where portraits, landscapes, and photographic reproductions of works of art could be bought. This appeal to the middle class convinced the elite that photographs would foster a desire for realism instead of idealism, even though some critics recognized that the work of individual photographers might display an uplifting style and substance that was consistent with the defining characteristics of art. * the name given to the first commercially successful photographic images",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 1"
+    }
+  }
+]

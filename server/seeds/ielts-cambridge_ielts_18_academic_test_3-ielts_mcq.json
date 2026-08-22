@@ -1,0 +1,177 @@
+[
+  {
+    "question_text": "What point does the writer make about the steam car in Paragraph B?",
+    "options": [
+      "Its success was short-lived.",
+      "Not enough cars were made.",
+      "Car companies found them hard to sell.",
+      "People found them hard to drive."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling, even though it was so heavy. As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour, and it achieved about fifteen miles per gallon of kerosene with negligible emissions. G Sadly, the Dobles' brilliant steam car never was a financial success.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "When building their first steam car, the Doble brothers",
+    "options": [
+      "constructed all the parts themselves.",
+      "made written notes at each stage of the construction.",
+      "needed several attempts to achieve a competitive model.",
+      "sought the advice of experienced people in the car industry."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "Evenas the market was declining, four brothers made one last effort to rekindle the technology. Between 1906 and 1909, while still attending high school, Abner Doble and his three brothers built their first steam car in their parents' basement. It comprised parts taken from a wrecked early steam car but reconfigured to drive an engine of their own design. Though it did not run well, the Doble brothers went on to build a second and third prototype in the following years.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "In order to produce the Model C, the Doble brothers",
+    "options": [
+      "moved production to a different city.",
+      "raised financial capital.",
+      "employed an additional worker.",
+      "abandoned their earlier designs."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "D The following year Abner Doble drove the Model B from Massachusetts to Detroit in order to seek investment in his automobile design, which he used to open the General Engineering Company. He and his brothers immediately began working on the Model C, which was intended to expand upon the innovations of the Model B. The brothers added features such as a key-based ignition in the cabin, eliminating the need for the operator to manually ignite the boiler.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "The writer describes the Romeo and Juliet lesson in order to demonstrate",
+    "options": [
+      "how few students are interested in literature.",
+      "how a teacher handles a range of learning needs.",
+      "how unsuitable Shakespeare is for most teenagers.",
+      "how weaker students can disrupt their classmates' learning."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "It's an English literature I have heard the mixed-ability model attacked lesson in a UK school, and the teacher has just by way of analogy: a group hike. The fittest read an extract from Shakespeare's Romeo in the group take the lead and set a brisk pace, and Juliet with a class of 15-year-olds. He's only to have to stop and wait every 20 minutes. given some of the students copies of No Fear This is frustrating, and their enthusiasm wanes.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does the writer say about streaming in the third paragraph?",
+    "options": [
+      "It has a very broad appeal.",
+      "It favours cleverer students.",
+      "It is relatively simple to implement.",
+      "It works better in some schools than others."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "< ws. oy parents and so on — and what they can achieve The practice of streaming', or tracking\", independently. The purpose of teaching is involves separating students into classes to provide and then gradually remove this depending on their diagnosed levels of 'scaffolding' until they are autonomous. If we attainment.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What idea is suggested by the reference to Mount Qomolangma in the fifth paragraph?",
+    "options": [
+      "students following unsuitable paths",
+      "students attempting interesting tasks",
+      "students not achieving their full potential",
+      "students not being aware of their limitations"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "Mixed-ability classes bore students, frustrate He can ask most of the class about character parents and burn out teachers. The brightest development, and five of them might be able to _ ones will never summit Mount Qomolangma, and support their statements with textual evidence. _ the stragglers won't enjoy the lovely stroll in the Now two curious students are wondering park they are perhaps more suited to. Individuals whether Shakespeare advocates living a life of __ suffer at the demands of the collective, mediocrity moderation or one of passionate engagement.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does the word 'scaffolding' in the sixth paragraph refer to?",
+    "options": [
+      "the factors which prevent a student from learning effectively",
+      "the environment where most of a student's learning takes place",
+      "the assistance given to a student in their initial stages of learning",
+      "the setting of appropriate learning targets for a student's aptitude"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 3",
+    "passage_text": "Another girl up. What's worse, they never get a long enough simply can't focus and he gives her pens and break. They honestly just want to quit. Hiking, paper to draw with.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 3"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the writer doing in the first paragraph?",
+    "options": [
+      "setting out two opposing views about human nature",
+      "justifying his opinion about our tendency to be greedy",
+      "describing a commonly held belief about people's behaviour",
+      "explaining why he thinks that humans act in a selfish manner"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 4",
+    "passage_text": "If we are good, it's only because we have managed to control and transcend our innate selfishness and brutality. This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene became popular because it fitted so well with - and helped to justify - the competitive and individualistic ethos that was so prevalent in late 20th-century societies. Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What point is made about Richard Dawkins' book The Selfish Gene?",
+    "options": [
+      "Its appeal lay in the radical nature of its ideas.",
+      "Its success was due to the scientific support it offered.",
+      "It presented a view that was in line with the attitudes of its time.",
+      "It took an innovative approach to the analysis of human psychology."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 4",
+    "passage_text": "If we are good, it's only because we have managed to control and transcend our innate selfishness and brutality. This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene became popular because it fitted so well with - and helped to justify - the competitive and individualistic ethos that was so prevalent in late 20th-century societies. Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What does the writer suggest about the prehistoric era in the fourth paragraph?",
+    "options": [
+      "Societies were more complex than many people believe.",
+      "Supplies of natural resources were probably relatively plentiful.",
+      "Most estimates about population sizes are likely to be inaccurate.",
+      "Humans moved across continents more than was previously thought."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 4",
+    "passage_text": "Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'. Prehistory is usually seen as a period of intense competition, when life was such a brutal battle that only those with traits such as selfishness, aggression and ruthlessness survived. And because survival depended on access to resources - such as rivers, forests and animals - there was bound to be conflict between rival groups, which led to the development of traits such as racism and warfare.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The writer refers to Bruce Knauft's work as support for the idea that",
+    "options": [
+      "selfishness is a relatively recent development in human societies.",
+      "only people in isolated communities can live in an unselfish manner.",
+      "very few lifestyles have survived unchanged since prehistoric times.",
+      "hunter-gatherer cultures worldwide are declining in number."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 4",
+    "passage_text": "If we are good, it's only because we have managed to control and transcend our innate selfishness and brutality. This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene became popular because it fitted so well with - and helped to justify - the competitive and individualistic ethos that was so prevalent in late 20th-century societies. Like many others, Dawkins justifies his views with reference to the field of evolutionary psychology. Evolutionary psychology theorises that present-day human traits developed in prehistoric times, during what is termed the 'environment of evolutionary adaptedness'.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 4"
+    }
+  }
+]

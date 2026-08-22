@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "The first paragraph tells us about",
+    "options": [
+      "the kinds of jobs that will be most affected by the growth of AI.",
+      "the extent to which AI will alter the nature of the work that people do.",
+      "the proportion of the world's labour force who will have jobs in AI in the future.",
+      "the difference between ways that embodied and disembodied AI will impact on workers."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 1",
+    "passage_text": "'If routine cognitive tasks are taken over by AI, how do professions develop their future experts?' she asks. \"One way of learning about a job is \"legitimate peripheral participation\" - a novice stands next to experts and learns by observation. If this isn't happening, then you need to find new ways to learn.' Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "According to the second paragraph, what is Stella Pachidi's view of the 'knowledge economy'?",
+    "options": [
+      "It is having an influence on the number of jobs available.",
+      "It is changing people's attitudes towards their occupations.",
+      "It is the main reason why the production sector is declining.",
+      "It is a key factor driving current developments in the workplace."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 1",
+    "passage_text": "'Disembodied AI', like the algorithms running in our smartphones, is another. Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are happening as a result of the 'algorithmication' of jobs that are dependent on data rather than on production - the so-called knowledge economy. Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence. 'In many cases, they can outperform humans,' says Pachidi.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What did Pachidi observe at the telecommunications company?",
+    "options": [
+      "staff disagreeing with the recommendations of AI",
+      "staff feeling resentful about the intrusion of AI in their work",
+      "staff making sure that AI produces the results that they want",
+      "staff allowing AI to carry out tasks they ought to do themselves"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 1",
+    "passage_text": "If this isn't happening, then you need to find new ways to learn.' Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. 'The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n]...",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "In his recently published research, Ewan McGaughey",
+    "options": [
+      "challenges the idea that redundancy is a negative thing.",
+      "shows the profound effect of mass unemployment on society.",
+      "highlights some differences between past and future job losses.",
+      "illustrates how changes in the job market can be successfully handled."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 1",
+    "passage_text": "If in 30 years, half of 100 jobs are being carried out by robots, that doesn't mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.' Dr Ewan McGaughey, at Cambridge's Centre for Business Research and King's College London, agrees that 'apocalyptic' views about the future of work are misguided. 'It's the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.' His recently published research answers the question of whether automation, AI and robotics will mean a 'jobless future' by looking at the causes of unemployment. 'History is clear that change can mean redundancies.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 1"
+    }
+  }
+]

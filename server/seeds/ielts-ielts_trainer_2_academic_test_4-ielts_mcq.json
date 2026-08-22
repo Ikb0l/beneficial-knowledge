@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the reviewer emphasising in the phrase ‘Wohlleben would beg to differ’?",
+    "options": [
+      "A the fact that trees might not live as passively as we thing",
+      "B the idea that a forest trip might increase people’s vitality",
+      "C the way that a forest is the key feature of many landscapes",
+      "D the belief that trees exist only for the benefit of humans"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 4",
+    "passage_text": "Forests and the trees that form them are commonly perceived as objects lacking awareness, like rocks or stones. But here, Wohlleben would beg to differ. From his observations, he has concluded that they are conscious in a way we do not fully understand. In recent decades, a number of writers have investigated our planet’s flora.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "According to the reviewer, a unique feature of The Hidden Life of Trees is",
+    "options": [
+      "A its suggestion that ordinary people can act to protect forests.",
+      "B its viewpoint that only certain kinds of tree are worth preserving.",
+      "C its tendency to refer to trees as if they had human qualities.",
+      "D its simplistic rather than academic approach to writing."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 4",
+    "passage_text": "Review: The Hidden Life of Trees by Peter Wohlleben That so many copies of Peter Wohlleben’s book The Hidden Life of Trees have been sold is no surprise. Life in the urban jungle can be overwhelming, and many of us long to escape by seeing more natural environments. We hope an encounter with nature might make us feel more ‘alive’. Would we use this same term to describe nature itself, though?",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What are we told about Peter Wohlleben’s time as a state-employed forester?",
+    "options": [
+      "A He hoped he could make a good living from cutting down trees.",
+      "B He changed his mind about the way in which trees were valuable.",
+      "C He rejected the ideas that visitors to the beach forest put forward.",
+      "D He introduced new techniques for improving the growth of trees."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 4",
+    "passage_text": "In recent decades, a number of writers have investigated our planet’s flora. The Cabaret of Plants by Richard Mabey and What a Planet Knows by Daniel Chamovitz, for example, have done much to reformulate our views about the green world. Central to many of these books is a serious message about sustainability, and The Hidden Life Trees is no exception. What sets it apart is its approach to description: at the start Wohlleben announces that ‘When you know the trees ...",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The reviewer mentions the trees stump anecdote in order to",
+    "options": [
+      "A question traditional thinking about the way trees grow.",
+      "B explain the motivation behind Wohlleben’s area of research",
+      "C highlight Wohlleben’s lack of formal scientific training.",
+      "D suggest how personal stories have brought a dull topic to life."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 4",
+    "passage_text": "Review: The Hidden Life of Trees by Peter Wohlleben That so many copies of Peter Wohlleben’s book The Hidden Life of Trees have been sold is no surprise. Life in the urban jungle can be overwhelming, and many of us long to escape by seeing more natural environments. We hope an encounter with nature might make us feel more ‘alive’. Would we use this same term to describe nature itself, though?",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 4"
+    }
+  }
+]

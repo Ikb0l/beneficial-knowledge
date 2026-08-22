@@ -1,0 +1,13 @@
+Place these sound effect files here:
+- click.mp3
+- match-found.mp3
+- countdown.mp3
+- question-reveal.mp3
+- answer-select.mp3
+- answer-correct.mp3
+- answer-wrong.mp3
+- victory.mp3
+- defeat.mp3
+- rank-up.mp3
+- streak.mp3
+- time-warning.mp3

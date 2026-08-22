@@ -1,0 +1,152 @@
+[
+  {
+    "question_text": "What point does the writer make about AI in the first paragraph?",
+    "options": [
+      "It is difficult to predict how quickly AI will progress.",
+      "Much can be learned about the use of AI in chess machines.",
+      "The future is unlikely to see limitations on the capabilities of AI.",
+      "Experts disagree on which specialised tasks AI will be able to perform."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "How then, do we point machines in the direction of something better? As for the 'destination' problem, we might, by putting ourselves in the hands of these moral guides and gatekeepers, be sacrificing our own autonomy — an important part of what makes us human. Machines who are better than us at sticking to the moral high ground may be expected to discourage some of the lapses we presently take for granted. We might lose our freedom to discriminate in favour of our own communities, for example.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What is the writer doing in the second paragraph?",
+    "options": [
+      "explaining why machines will be able to outperform humans",
+      "describing the characteristics that humans and machines share",
+      "giving information about the development of machine intelligence",
+      "indicating which aspects of humans are the most advanced"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "A chess- playing Al that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That's yesterday's news, what's next? True, these prodigious accomplishments are all in so- called narrow Al, where machines perform highly specialised tasks. But many experts believe this restriction is very temporary.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Why does the writer mention the story of King Midas?",
+    "options": [
+      "to compare different visions of progress",
+      "to illustrate that poorly defined objectives can go wrong",
+      "to emphasise the need for cooperation",
+      "to point out the financial advantages of a course of action"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "But the more powerful Al becomes, the more important it will be to specify its goals with great care. Folklore is full of tales of people who ask for the wrong thing, with disastrous consequences — King Midas, for example, might have wished that everything he touched turned to gold, but didn't really intend this to apply to his breakfast. So we need to create powerful Al machines that are 'human-friendly' — that have goals reliably aligned with our own values. One thing that makes this task difficult is that we are far from reliably human-friendly ourselves.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What challenge does the writer refer to in the fourth paragraph?",
+    "options": [
+      "encouraging humans to behave in a more principled way",
+      "deciding which values we want AI to share with us",
+      "creating a better world for all creatures on the planet",
+      "ensuring AI is more human-friendly than we are ourselves"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "Living with artificial intelligence Powerful artificial intelligence (Al) needs to be reliably aligned with human values, but does this mean Al will eventually have to police those values? This has been the decade of Al, with one astonishing feat after another. A chess- playing Al that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That's yesterday's news, what's next?",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What does the writer suggest about the future of AI in the fifth paragraph?",
+    "options": [
+      "The safety of machines will become a key issue.",
+      "It is hard to know what impact machines will have on the world.",
+      "Machines will be superior to humans in certain respects.",
+      "Many humans will oppose machines having a wider role."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "And where exactly would that leave human beings? All the more reason to think about the destination now, and to be careful about what we wish for.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Which of the following best summarises the writer's argument in the sixth paragraph?",
+    "options": [
+      "More intelligent machines will result in greater abuses of power.",
+      "Machine learning will share very few features with human learning.",
+      "There are a limited number of people with the knowledge to program machines.",
+      "Human shortcomings will make creating the machines we need more difficult."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 18 Academic Test 2",
+    "passage_text": "Test 2 For safety's sake, then, we want the machines to be ethically as well as cognitively superhuman. We want them to aim for the moral high ground, not for the troughs in which many of us spend some of our time. Luckily they'll be smart enough for the job. If there are routes to the moral high ground, they'll be better than us at finding them, and steering us in the right direction.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 18 Academic Test 2"
+    }
+  }
+]

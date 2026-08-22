@@ -1,0 +1,27 @@
+[
+  {
+    "question_text": "What would be the best title for this passage?",
+    "options": [
+      "Assessing the threat of marine debris",
+      "Marine debris: who is to blame?",
+      "A new solution to the problem of marine debris",
+      "Marine debris: the need for international action"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 4",
+    "passage_text": "Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology, Rochman and her colleagues set out to determine how many of those perceived risks are real. Often, Rochman says, scientists will end a paper by speculating about the broader impacts of what they've found. For example, a study could show that certain seabirds cat plastic bags, and go on to warn that whole bird populations are at risk of dying out. 'But the truth was that nobody had yet tested those perceived threats,' Rochman says.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 4"
+    }
+  }
+]

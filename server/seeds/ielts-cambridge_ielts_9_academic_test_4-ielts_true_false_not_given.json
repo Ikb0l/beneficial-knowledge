@@ -1,0 +1,242 @@
+[
+  {
+    "question_text": "Marie Curie's husband was a joint winner of both Marie's Nobel Prizes.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and was then sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize. From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Marie became interested in science when she was a child.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "She was the first woman to win a Nobel Prize. From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Marie was able to attend the Sorbonne because of her sister's financial contribution.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "She was the first woman to win a Nobel Prize. From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Marie stopped doing research for several years when her children were born.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "This was achieved with the help of the chemist Andre-Louis Debierne, one of Pierre Curie's pupils. Based on the results of this research, Marie Curie received her Doctorate of Science, and in 1903 Marie and Pierre shared with Becquerel the Nobel Prize for Physics for the discovery of radioactivity. The births of Marie's two daughters, Irene and Eve, in 1897 and 1904 failed to interrupt her scientific work. She was appointed lecturer in physics at the Ecole Normale Superieure for girls in Sevres, France (1900), and introduced a method of teaching based on experimental demonstrations.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Marie took over the teaching position her husband had held.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance. Following Henri Becquerel's discovery in 1896 of a new phenomenon, which Marie later called 'radioactivity', Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements. She discovered that this was true for thorium. Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be explained only by the presence in the ore of small quantities of an unknown substance of very high activity.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Marie’s sister Bronia studied the medical uses of radioactivity.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education. In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne (the University of Paris). She often worked far into the night and lived on little more than bread and butter and tea.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Consumers prefer theme parks which avoid serious issues.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "D Theme parks are undergoing other changes, too, as they try to present more serious social and cultural issues, and move away from fantasy. This development is a response to market forces and, although museums and heritage sites have a special, rather distinct, role to fulfil, they are also operating in a very competitive environment, where visitors make choices on how and where to spend their free time. Heritage and museum experts do not have to invent stories and recreate historical environments to attract their visitors: their assets are already in place.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "More people visit museums than theme parks.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "They already borrow ideas and concepts from one another. For example, museums have adopted story lines for exhibitions, sites have accepted 'theming' as a relevant tool, and theme parks are moving towards more authenticity and research-based presentations. In zoos, animals are no longer kept in cages, but in great spaces, either in the open air or in enormous greenhouses, such as the jungle and desert environments in Burgers' Zoo in Holland. This particular trend is regarded as one of the major developments in the presentation of natural history in the twentieth century.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The boundaries of Leyden have changed little since the seventeenth century.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "The same applies to the furnishings and other contents of the premises. In a town like Leyden in Holland, which in the seventeenth century was occupied by approximately the same number of inhabitants as today, people lived within the walled town, an area more than five times smaller than modern Leyden. In most of the houses several families lived together in circumstances beyond our imagination. Yet in museums, fine period rooms give only an image of the lifestyle of the upper class of that era.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Museums can give a false impression of how life used to be.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "In most of the houses several families lived together in circumstances beyond our imagination. Yet in museums, fine period rooms give only an image of the lifestyle of the upper class of that era. No wonder that people who stroll around exhibitions are filled with nostalgia; the evidence in museums indicates that life was so much better in the past. This notion is induced by the bias in its representation in museums and heritage centres.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4"
+    }
+  }
+]

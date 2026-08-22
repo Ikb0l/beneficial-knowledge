@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "What point does the writer emphasise in the first paragraph?",
+    "options": [
+      "how dramatically our reactions to music can vary",
+      "how intense our physical responses to music can be",
+      "how little we know about the way that music affects us",
+      "how much music can tell us about how our brains operate"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 3",
+    "passage_text": "Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern and then, in an ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is suggest variations of the pattern. He wants to preserve an element of uncertainty in his music, making our brains beg for the one chord he refuses to give us. Beethoven saves that chord for the end.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What view of the Montreal study does the writer express in the second paragraph?",
+    "options": [
+      "Its aims were innovative.",
+      "The approach was too simplistic.",
+      "It produced some remarkably precise data.",
+      "The technology used was unnecessarily complex."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 3",
+    "passage_text": "As these two regions have long been linked with the experience of pleasure, this finding isn't particularly surprising. What is rather more significant is the finding that the dopamine neurons in the caudate - a region of the brain involved in learning stimulus-response associations, and in anticipating food and other 'reward' stimuli - were at their most active around 15 seconds before the participants' favourite moments in the music. The researchers call this the 'anticipatory phase' and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does the writer find interesting about the results of the Montreal study?",
+    "options": [
+      "the timing of participants' neural responses to the music",
+      "the impact of the music on participants' emotional state",
+      "the section of participants' brains which was activated by the music",
+      "the type of music which had the strongest effect on participants' brains"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 3",
+    "passage_text": "As these two regions have long been linked with the experience of pleasure, this finding isn't particularly surprising. What is rather more significant is the finding that the dopamine neurons in the caudate - a region of the brain involved in learning stimulus-response associations, and in anticipating food and other 'reward' stimuli - were at their most active around 15 seconds before the participants' favourite moments in the music. The researchers call this the 'anticipatory phase' and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Why does the writer refer to Meyer's work on music and emotion?",
+    "options": [
+      "to propose an original theory about the subject",
+      "to offer support for the findings of the Montreal study",
+      "to recommend the need for further research into the subject",
+      "to present a view which opposes that of the Montreal researchers"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 3",
+    "passage_text": "Music and the emotions Neuroscientist Jonah Lehrer considers the emotional power of music Why does music make us feel? On the one hand, music is a purely abstract art form, devoid of language or explicit ideas. And yet, even though music says little, it still manages to touch us deeply. When listening to our favourite songs, our body betrays all the symptoms of emotional arousal.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "According to Leonard Meyer, what causes the listener's emotional response to music?",
+    "options": [
+      "the way that the music evokes poignant memories in the listener",
+      "the association of certain musical chords with certain feelings",
+      "the listener's sympathy with the composer's intentions",
+      "the internal structure of the musical composition"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 12 Academic Test 3",
+    "passage_text": "As these two regions have long been linked with the experience of pleasure, this finding isn't particularly surprising. What is rather more significant is the finding that the dopamine neurons in the caudate - a region of the brain involved in learning stimulus-response associations, and in anticipating food and other 'reward' stimuli - were at their most active around 15 seconds before the participants' favourite moments in the music. The researchers call this the 'anticipatory phase' and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 12 Academic Test 3"
+    }
+  }
+]

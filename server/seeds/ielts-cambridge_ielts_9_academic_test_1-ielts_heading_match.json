@@ -1,0 +1,106 @@
+[
+  {
+    "question_text": "Choose the correct heading for: Paragraph B",
+    "options": [
+      "Knowledge of extra-terrestrial life forms",
+      "Assumptions underlying the search for extra-terrestrial intelligence",
+      "Reasons for the search for extra-terrestrial intelligence",
+      "Likelihood of life on other planets"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 1",
+    "passage_text": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilisations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life. A The primary reason for the search is basic curiosity - the same curiosity about the natural world that drives all pure science.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iv"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 1",
+      "item_text": "Paragraph B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph C",
+    "options": [
+      "Appropriate responses to signals from other civilisations",
+      "Vast distances to Earth's closest neighbours",
+      "Assumptions underlying the search for extra-terrestrial intelligence",
+      "Likelihood of life on other planets"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 1",
+    "passage_text": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilisations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life. A The primary reason for the search is basic curiosity - the same curiosity about the natural world that drives all pure science.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "vii"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 1",
+      "item_text": "Paragraph C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph D",
+    "options": [
+      "Seeking the transmission of radio signals from planets",
+      "Likelihood of life on other planets",
+      "Appropriate responses to signals from other civilisations",
+      "Assumptions underlying the search for extra-terrestrial intelligence"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 1",
+    "passage_text": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilisations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life. A The primary reason for the search is basic curiosity - the same curiosity about the natural world that drives all pure science.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "i"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 1",
+      "item_text": "Paragraph D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph E",
+    "options": [
+      "Appropriate responses to signals from other civilisations",
+      "Vast distances to Earth's closest neighbours",
+      "Seeking the transmission of radio signals from planets",
+      "Assumptions underlying the search for extra-terrestrial intelligence"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 2 has five paragraphs, A-E.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 1",
+    "passage_text": "The Search for Extra-terrestrial Intelligence The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilisations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life. A The primary reason for the search is basic curiosity - the same curiosity about the natural world that drives all pure science.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "ii"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 1",
+      "item_text": "Paragraph E"
+    }
+  }
+]

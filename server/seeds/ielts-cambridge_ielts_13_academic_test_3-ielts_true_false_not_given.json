@@ -1,0 +1,122 @@
+[
+  {
+    "question_text": "Coconut seeds need shade in order to germinate.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 3",
+    "passage_text": "The large, energy-rich fruits are able to float in water and tolerate salt, but cannot remain viable indefinitely; studies suggest after about 110 days at sea they are no longer able to germinate. Literally cast onto desert island shores, with little more than sand to grow in and exposed to the full glare of the tropical sun, coconut seeds are able to germinate and root. The air pocket in the seed, created as the endosperm solidifies, protects the embryo. In addition, the fibrous fruit wall that helped it to float during the voyage stores moisture that can be taken up by the roots of the coconut seedling as it starts to grow.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Coconuts were probably transported to Asia from America in the 16th century.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 3",
+    "passage_text": "There were no coconut palms in West Africa, the Caribbean or the east coast of the Americas before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries. 16th century trade and human migration patterns reveal that Arab traders and European sailors are likely to have moved coconuts from South and Southeast Asia to Africa and then across the Atlantic to the east coast of America. But the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion. Two diametrically opposed origins have been proposed; that they came from Asia, or that they were native to America.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Coconuts found on the west coast of America were a different type from those found on the east coast.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 3",
+    "passage_text": "There have been centuries of academic debate over the origins of the coconut. There were no coconut palms in West Africa, the Caribbean or the east coast of the Americas before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries. 16th century trade and human migration patterns reveal that Arab traders and European sailors are likely to have moved coconuts from South and Southeast Asia to Africa and then across the Atlantic to the east coast of America. But the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "All the coconuts found in Asia are cultivated varieties.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 3",
+    "passage_text": "In the western world, on the other hand, coconuts have always been exotic and unusual, sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts in South Asia in the late 13th century, and among the mid-14th-century travel writings of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India). Today, images of palm-fringed tropical beaches are clichés in the west to sell holidays, chocolate bars, fizzy drinks and even romance. Typically, we envisage coconuts as brown cannonballs that, when opened, provide sweet white flesh.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Coconuts are cultivated in different ways in America and the Pacific.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 13 Academic Test 3",
+    "passage_text": "The coconut palm For millennia, the coconut has been central to the lives of Polynesian and Asian peoples. In the western world, on the other hand, coconuts have always been exotic and unusual, sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts in South Asia in the late 13th century, and among the mid-14th-century travel writings of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India). Today, images of palm-fringed tropical beaches are clichés in the west to sell holidays, chocolate bars, fizzy drinks and even romance.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 13 Academic Test 3"
+    }
+  }
+]

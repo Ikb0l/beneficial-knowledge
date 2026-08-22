@@ -1,0 +1,77 @@
+[
+  {
+    "question_text": "The use of 'O.K.' in published form depends on ...",
+    "options": [
+      "which country the text is produced in",
+      "the decisions of the particular publishing house",
+      "what the writer intends to express",
+      "the position of the word within a sentence"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "explanation": "",
+    "source_reference": "IELTS General Training Practice Test 8",
+    "passage_text": "B From its early days the term has always been used informally, which may explain the variations in its spelling that have come about over the years. While some publications prefer ‘okay’, others prefer ‘OK’, ‘O.K.’, ‘ok’ or ‘o.k.’. There has never been any consensus on whether it should be written as a full word or in shortened form; whether certain letters should be large or small; or whether there is a need for full stops after each letter.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "general_training",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS General Training Practice Test 8"
+    }
+  },
+  {
+    "question_text": "The reason the word 'OK' became so commonly-used after the 1840 election was that ...",
+    "options": [
+      "with so many people arriving in the country it was a simple and easy word to use",
+      "the word was seen as humorous and used in many jokes",
+      "the word became famous after being used by a former President",
+      "a book was published which used the word in its title"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "explanation": "",
+    "source_reference": "IELTS General Training Practice Test 8",
+    "passage_text": "A There is an English word used with such regularity the world over that it doesn’t need to be spoken - a simple hand gesture will suffice. So well-known is the word that it surprises many to learn that it did not exist until 200 years ago. It is the word ‘OK’.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "general_training",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "IELTS General Training Practice Test 8"
+    }
+  },
+  {
+    "question_text": "The word 'OK' can sometimes express an attitude of vagueness because ...",
+    "options": [
+      "the word is so short and has many possible meanings",
+      "the way in which the word is used depends on the mood of the speaker",
+      "it contains the letter 'O' which can mean 'zero' or 'nothing'",
+      "the listener might just be showing that they understand the message"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "medium",
+    "explanation": "",
+    "source_reference": "IELTS General Training Practice Test 8",
+    "passage_text": "Someone might yell, ‘OK!’ In a manner that shows excitement, while, in contrast, teenagers often use it in an irritated voice to intimate forcefully that their sensitivities have been offended. Adding to its versatility, ‘OK’ might suggest an explicit willingness to take action, but on the other hand might also express vagueness. For example, one might say it to acknowledge that one has heard something, while the other party might assume that one is indicating that one has agreed to take a particular course of action. G",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "general_training",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "IELTS General Training Practice Test 8"
+    }
+  }
+]

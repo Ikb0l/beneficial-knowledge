@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "The purpose of the first paragraph is to",
+    "options": [
+      "defend particular ideas.",
+      "compare certain beliefs.",
+      "disprove a widely held view.",
+      "outline a common assumption."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 2",
+    "passage_text": "Insight or evolution? Two scientists consider the origins of discoveries and other innovative behavior Scientific discovery is popularly believed to result from the sheer genius of such intellectual stars as naturalist Charles Darwin and theoretical physicist Albert Einstein. Our view of such unique contributions to science often disregards the person's prior experience and the efforts of their lesser-known predecessors.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What are the writers doing in the second paragraph?",
+    "options": [
+      "criticising an opinion",
+      "justifying a standpoint",
+      "explaining an approach",
+      "supporting an argument"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 2",
+    "passage_text": "Niels Bohr, the Nobel prize-winning father of modern atomic theory, jumped off from this interesting idea to conceive his now-famous model of the atom. What are we to make of this story? One might simply conclude that science is a collective and cumulative enterprise. That may be true, but there may be a deeper insight to be gleaned.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "In the third paragraph, what do the writers suggest about Darwin and Einstein?",
+    "options": [
+      "They represent an exception to a general rule.",
+      "Their way of working has been misunderstood.",
+      "They are an ideal which others should aspire to.",
+      "Their achievements deserve greater recognition."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 2",
+    "passage_text": "However, we believe that it largely misrepresents the real nature of scientific discovery, as well as that of creativity and innovation in many other realms of human endeavor. Setting aside such greats as Darwin and Einstein - whose monumental contributions are duly celebrated - we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, as well as one or more steps to the right or left. This evolutionary view of human innovation undermines the notion of creative genius and recognizes the cumulative nature of scientific progress. Consider one unheralded scientist: John Nicholson, a mathematical physicist working in the 1910s who postulated the existence of 'proto-elements' in outer space.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "John Nicholson is an example of a person whose idea",
+    "options": [
+      "established his reputation as an influential scientist.",
+      "was only fully understood at a later point in history.",
+      "laid the foundations for someone else's breakthrough.",
+      "initially met with scepticism from the scientific community."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 2",
+    "passage_text": "This evolutionary view of human innovation undermines the notion of creative genius and recognizes the cumulative nature of scientific progress. Consider one unheralded scientist: John Nicholson, a mathematical physicist working in the 1910s who postulated the existence of 'proto-elements' in outer space. By combining different numbers of weights of these proto-elements' atoms, Nicholson could recover the weights of all the elements in the then-known periodic table. These successes are all the more noteworthy given the fact that Nicholson was wrong about the presence of proto-elements: they do not actually exist.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "What is the key point of interest about the 'acey-deucy' stirrup placement?",
+    "options": [
+      "the simple reason why it was invented",
+      "the enthusiasm with which it was adopted",
+      "the research that went into its development",
+      "the cleverness of the person who first used it"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 17 Academic Test 2",
+    "passage_text": "Consider one example of an influential innovation in US horseracing. The so-called 'acey-deucy' stirrup placement, in which the rider's foot in his left stirrup is placed as much as 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks. It was developed by a relatively unknown jockey named Jackie Westrope. Had Westrope conducted methodical investigations or examined extensive film records in a shrewd plan to outrun his rivals?",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 17 Academic Test 2"
+    }
+  }
+]

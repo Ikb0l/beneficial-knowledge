@@ -1,0 +1,266 @@
+[
+  {
+    "question_text": "Halley observed one transit of the planet Venus.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "And you can put it all down to the extraordinary polymath Edmond Halley. In November 1677, Halley observed a transit of the innermost planet, Mercury, from the desolate island of St Helena in the South Pacific. He realised that, from different latitudes, the passage of the planet across the Sun's disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle - the apparent difference in position of an astronomical body due to a difference in the observer's position.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Le Gentil managed to observe a second Venus transit.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "F But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits. Johann Franz Encke, Director of the Berlin Observatory, finally determined a value for the AU based on all these parallax measurements: 153,340,000 km. Reasonably accurate for the time, that is quite close to today's value of 149,597,870 km, determined by radar, which has now superseded transits and all other methods in accuracy.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "The shape of Venus appears distorted when it starts to pass in front of the Sun.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "Venus in transit June 2004 saw the first passage, known as a 'transit', of the planet Venus across the face of the Sun in 122 years. Transits have helped shape our view of the whole Universe, as Heather Cooper and Nigel Henbest explain A On 8 June 2004, more than half the population of the world were treated to a rare astronomical event.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Early astronomers suspected that the atmosphere on Venus was toxic.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun's disc. While this showed astronomers that Venus was surrounded by a thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings. F But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "The parallax principle allows astronomers to work out how far away distant stars are from the Earth.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "He realised that, from different latitudes, the passage of the planet across the Sun's disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle - the apparent difference in position of an astronomical body due to a difference in the observer's position. Calculating this angle would allow astronomers to measure what was then the ultimate goal: the distance of the Earth from the Sun. This distance is known as the astronomical unit' or AU.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Exposure to different events forces the brain to think differently.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "A neuroscientist reveals how to think differently In the last decade a revolution has occurred in the way that scientists think about the brain. We now know that the decisions humans make can be traced to the firing patterns of neurons in specific parts of the brain. These discoveries have led to the field known as neuroeconomics, which studies the brain's secrets to success in an economic environment that demands innovation and being able to do things differently from competitors. A brain that can do this is an iconoclastic one.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Iconoclasts are unusually receptive to new experiences.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "Briefly, an iconoclast is a person who does something that others say can't be done. This definition implies that iconoclasts are different from other people, but more precisely, it is their brains that are different in three distinct ways: perception, fear response, and social intelligence. Each of these three functions utilizes a different circuit in the brain. Naysayers might suggest that the brain is irrelevant, that thinking in an original, even revolutionary, way is more a matter of personality than brain function.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Most people are too shy to try different things.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "Successful iconoclasts have an extraordinary willingness to be exposed to what is fresh and different. Observation of iconoclasts shows that they embrace novelty while most people avoid things that are different. The problem with novelty, however, is that it tends to trigger the brain's fear system. Fear is a major impediment to thinking like an iconoclast and stops the average person in his tracks.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "If you think in an iconoclastic way, you can easily overcome fear.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "Fear is a major impediment to thinking like an iconoclast and stops the average person in his tracks. There are many types of fear, but the two that inhibit iconoclastic thinking and people generally find difficult to deal with are fear of uncertainty and fear of public ridicule. These may seem like trivial phobias. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "When concern about embarrassment matters less, other fears become irrelevant.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "Social intelligence is the ability to understand and manage people in a business setting. In the last decade there has been an explosion of knowledge about the social brain and how the brain works when groups coordinate decision making. Neuroscience has revealed which brain circuits are responsible for functions like understanding what other people think, empathy, fairness, and social identity. These brain regions play key roles in whether people convince others of their ideas.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  },
+  {
+    "question_text": "Fear of public speaking is a psychological illness.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 2",
+    "passage_text": "These may seem like trivial phobias. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population. This makes it too common to be considered a mental disorder. It is simply a common variant of human nature, one which iconoclasts do not let inhibit their reactions.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 2"
+    }
+  }
+]

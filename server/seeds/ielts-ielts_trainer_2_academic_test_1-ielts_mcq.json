@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the writer doing in the fourth paragraph?",
+    "options": [
+      "comparing several different types of jellyfish",
+      "dismissing some common ideas about jellyfish",
+      "contrasting various early theories about jellyfish",
+      "rejecting some scientific findings regarding jellyfish"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 1",
+    "passage_text": "While this is true, we now know they possess senses that allow them to see, feel and interact with their environment on subtle ways. What is more, analysis of so-called ‘upside-down jellyfish’ shows that they shut down their bodies and rest in much the same way that humans do at night, something once widely believed to be impossible for jellyfish. Furthermore, far from ‘floating’ in the water as they are still sometimes thought to do, analysis has shown jellyfish to be the most economical swimmers in the animal kingdom. In short, scientific progress in recent years has shown that many of our established beliefs about jellyfish were inaccurate.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What does the writer conclude in the fifth paragraph?",
+    "options": [
+      "Jellyfish have advantages and disadvantages for humans.",
+      "Humans have had a serious negative impact on jellyfish.",
+      "Jellyfish will cause problems for humans in the future.",
+      "Humans and jellyfish are fundamentally similar."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 1",
+    "passage_text": "While this is true, we now know they possess senses that allow them to see, feel and interact with their environment on subtle ways. What is more, analysis of so-called ‘upside-down jellyfish’ shows that they shut down their bodies and rest in much the same way that humans do at night, something once widely believed to be impossible for jellyfish. Furthermore, far from ‘floating’ in the water as they are still sometimes thought to do, analysis has shown jellyfish to be the most economical swimmers in the animal kingdom. In short, scientific progress in recent years has shown that many of our established beliefs about jellyfish were inaccurate.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "What is the writer’s main point in the sixth paragraph?",
+    "options": [
+      "Jellyfish may once have inhabited dry land.",
+      "Jellyfish improve the environment they live in.",
+      "Jellyfish have proved able to survive over time.",
+      "Jellyfish have caused other species to become endangered."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 1",
+    "passage_text": "This misunderstanding can be partly traced back to the 20th century, when the use of massive nets and mechanical winches often damaged the delicate jellyfish that scientists managed to recover. As a result, disappointingly little research was carried out into jellyfish, as marine biologists took the easy option and focused on physically stronger species such as fish, crabs and shrimp. Fortunately, however, new techniques are now being developed. For example, scientists have discovered that sound bounces harmlessly off jellyfish, so in the Arctic and Norway researchers are using sonar to monitor jellyfish beneath the ocean’s surface.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "The writer refers to the ‘scyphozoa’ in order to",
+    "options": [
+      "exemplify the great size of some jellyfish.",
+      "illustrate that jellyfish are biologically complex.",
+      "explain why certain jellyfish may become extinct.",
+      "suggest that scientists still misunderstand jellyfish."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 1",
+    "passage_text": "Jellyfish throughout their long history have shown themselves to be remarkably resilient. Studies of jellyfish in class know as scyphozoa have shown a lifecycle of three distinct phases. First, thousands of babies known as planulae are released. Them, after a few days the planulae develop into polyps – stationary lifeforms that feed off floating particles.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 1"
+    }
+  }
+]

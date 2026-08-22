@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What does the reader learn about the conversation in the first paragraph?",
+    "options": [
+      "The speakers are communicating in different languages.",
+      "Neither of the speakers is familiar with their environment.",
+      "The topic of the conversation is difficult for both speakers.",
+      "Aspects of the conversation are challenging for both speakers."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 3",
+    "passage_text": "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year. The idea of artificial speech translation has been around for a long time.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What assists the electronic translator during lectures at Karlsruhe Institute of Technology?",
+    "options": [
+      "the repeated content of lectures",
+      "the students' reading skills",
+      "the languages used",
+      "the lecturers' technical ability"
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 3",
+    "passage_text": "If we had, Waibel would have been able to speak more comfortably in his native German and I would have been able to hear his words in English. At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "When referring to The Hitchhiker's Guide to the Galaxy, the writer suggests that",
+    "options": [
+      "the Babel fish was considered undesirable at the time.",
+      "this book was not seriously intending to predict the future.",
+      "artificial speech translation was not a surprising development.",
+      "some speech translation techniques are better than others."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 3",
+    "passage_text": "The idea of artificial speech translation has been around for a long time. Douglas Adams' science fiction novel, The Hitchhiker s Guide to the Galaxy, published in 1979, featured a life form called the \"Babel fish' which, when placed in the ear, enabled a listener to understand any language in the universe. It came to represent one of those devices that technology enthusiasts dream of long before they become practically realisable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace. Now devices that look like prototype Babel fish have started to appear, riding a wave of advances in artificial translation and voice recognition.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does the writer say about sharing earpieces?",
+    "options": [
+      "It is something people will get used to doing.",
+      "The reluctance to do this is understandable.",
+      "The equipment will be unnecessary in the future.",
+      "It is something few people need to worry about."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 19 Academic Test 3",
+    "passage_text": "At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students can follow in English via an electronic translator. The system generates text that students can read on their laptops or phones, so the process is somewhat similar to subtitling. It helps that lecturers speak clearly, don't have to compete with background chatter, and say much the same thing each year. The idea of artificial speech translation has been around for a long time.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 19 Academic Test 3"
+    }
+  }
+]

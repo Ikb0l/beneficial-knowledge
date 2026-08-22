@@ -1,0 +1,106 @@
+[
+  {
+    "question_text": "Choose the correct heading for: Paragraph B",
+    "options": [
+      "Interpreting the facts to meet visitor expectations",
+      "The international dimension",
+      "Collections of factual evidence",
+      "Mixed views on current changes to museums"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 3 has six paragraphs, A-F.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "The Development of Museums A The conviction that historical relics provide infallible testimony about the past is rooted in the nineteenth and early twentieth centuries, when science was regarded as objective and value free. As one writer observes: 'Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.' Such conviction was, until recently, reflected in museum displays. Museums used to look - and some still do - much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "ii"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4",
+      "item_text": "Paragraph B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph C",
+    "options": [
+      "Mixed views on current changes to museums",
+      "Current reviews and suggestions",
+      "Commercial pressures on people in charge",
+      "Fewer differences between public attractions"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 3 has six paragraphs, A-F.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "The Development of Museums A The conviction that historical relics provide infallible testimony about the past is rooted in the nineteenth and early twentieth centuries, when science was regarded as objective and value free. As one writer observes: 'Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.' Such conviction was, until recently, reflected in museum displays. Museums used to look - and some still do - much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "vi"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4",
+      "item_text": "Paragraph C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph D",
+    "options": [
+      "Commercial pressures on people in charge",
+      "Current reviews and suggestions",
+      "Mixed views on current changes to museums",
+      "Collections of factual evidence"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 3 has six paragraphs, A-F.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "The Development of Museums A The conviction that historical relics provide infallible testimony about the past is rooted in the nineteenth and early twentieth centuries, when science was regarded as objective and value free. As one writer observes: 'Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.' Such conviction was, until recently, reflected in museum displays. Museums used to look - and some still do - much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "i"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4",
+      "item_text": "Paragraph D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: Paragraph E",
+    "options": [
+      "Interpreting the facts to meet visitor expectations",
+      "Current reviews and suggestions",
+      "Fewer differences between public attractions",
+      "Collections of factual evidence"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Reading Passage 3 has six paragraphs, A-F.\nChoose the correct heading for paragraphs B-E from the list of headings below.",
+    "source_reference": "Cambridge IELTS 9 Academic Test 4",
+    "passage_text": "The Development of Museums A The conviction that historical relics provide infallible testimony about the past is rooted in the nineteenth and early twentieth centuries, when science was regarded as objective and value free. As one writer observes: 'Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.' Such conviction was, until recently, reflected in museum displays. Museums used to look - and some still do - much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "iii"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 4",
+      "item_text": "Paragraph E"
+    }
+  }
+]

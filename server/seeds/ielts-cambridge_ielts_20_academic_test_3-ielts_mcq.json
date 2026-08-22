@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "37 What point does Richardson make about fear of machines?",
+    "options": [
+      "It has grown alongside the development of ever more advanced robots.",
+      "It is the result of our inclination to attribute human characteristics to non-human entities.",
+      "It has its origins in basic misunderstandings about how inanimate objects function.",
+      "It demonstrates a key difference between human intelligence and machine intelligence."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 3",
+    "passage_text": "Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.' Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. 'One of the consequences of thinking that the problem lies with machines is that...",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "38 What potential advance does Rees see as a cause for concern?",
+    "options": [
+      "robots outnumbering people",
+      "robots having abilities which humans do not",
+      "artificial intelligence developing independent thought",
+      "artificial intelligence taking over every aspect of our lives"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 3",
+    "passage_text": "Meanwhile, for anthropology Professor Kathleen Richardson, the idea of 'colonisation' of other planets seemed morally dubious: 'I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in \"the Other\", not to impose a particular model, but to meet \"the Other\".' In response to the second question, 'How soon will machine intelligence outstrip human intelligence?', Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, 'Robots are still limited in their ability to sense their environment: they can't yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then arise....",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "39 What does Wolpert emphasise in his response to the question about science fiction?",
+    "options": [
+      "how science fiction influences our attitudes to robots",
+      "how fundamental robots are to the science fiction genre",
+      "how the image of robots in science fiction has changed over time",
+      "how reactions to similar portrayals of robots in science fiction may vary"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 3",
+    "passage_text": "In fact, she went on, 'Not all fear [robots]; many people welcome machine intelligence.' In answer to the fourth question, 'What can science fiction tell us about robotics?', Rees replied, 'I sometimes advise students that it's better to read first-rate science fiction than second-rate science - more stimulating, and perhaps no more likely to be wrong.' As his response, Wolpert commented, 'Science fiction has often been remarkable at predicting the future.... Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "40 What is Richardson doing in her comment about reality and fantasy?",
+    "options": [
+      "warning people not to confuse one with the other",
+      "outlining ways in which one has impacted on the other",
+      "recommending a change of approach in how people view them",
+      "explaining why scientists have a different perspective on them from other people"
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 3",
+    "passage_text": "Interestingly, almost no science fiction envisages a future without robots.' Finally, on the question of science fiction, Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists and technologists made this separation because they wanted to carve out the sphere of their work. 'But the divide is not so clear cut, and that is why the worlds seem to collide at times,' she said.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 3"
+    }
+  }
+]

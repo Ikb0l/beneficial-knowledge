@@ -1,0 +1,27 @@
+[
+  {
+    "question_text": "According to the writer, the most significant thing about tortoises is that",
+    "options": [
+      "they are able to adapt to life in extremely dry environments.",
+      "their original life form was a kind of primeval bacteria.",
+      "they have so much in common with sea turtles.",
+      "they have made the transition from sea to land more than once."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 1",
+    "passage_text": "They come from the era before our turtles returned to the water. You might think, therefore, that modern land tortoises have probably stayed on land ever since those early terrestrial times, as most mammals did after a few of them went back to the sea. But apparently not. If you draw out the family tree of all modern turtles and tortoises, nearly all the branches are aquatic.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 1"
+    }
+  }
+]

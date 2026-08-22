@@ -1,0 +1,27 @@
+[
+  {
+    "question_text": "What is the writer's purpose in Reading Passage 1?",
+    "options": [
+      "to argue in favour of a particular approach to writing dictionaries and grammar books",
+      "to present a historical account of differing views of language",
+      "to describe the differences between spoken and written language",
+      "to show how a certain view of language has been discredited"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 9 Academic Test 3",
+    "passage_text": "All the main languages have been studied prescriptively, especially in the 18th century approach to the writing of grammars and dictionaries. The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage, (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to 'improve' the language. The authoritarian nature of the approach is best characterised by its reliance on 'rules' of grammar. Some usages are 'prescribed', to be learnt and followed accurately; others are 'proscribed', to be avoided.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 9 Academic Test 3"
+    }
+  }
+]

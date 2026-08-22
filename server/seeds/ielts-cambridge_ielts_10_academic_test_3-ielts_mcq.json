@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "For which of the following questions does the writer offer an explanation?",
+    "options": [
+      "why conifers remain green in winter",
+      "how leaves turn orange and yellow in autumn",
+      "how herbivorous insects choose which trees to lay their eggs in",
+      "why anthocyanins are restricted to certain trees"
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "Autumn leaves Canadian writer JAI Ingram investigates the mystery of why leaves turn red in the fall A One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "According to the writer, there are difficulties explaining how the Lapita accomplished their journeys because",
+    "options": [
+      "the canoes that have been discovered offer relatively few clues.",
+      "archaeologists have shown limited interest in this area of research.",
+      "little information relating to this period can be relied upon for accuracy.",
+      "technological advances have altered the way such achievements are viewed."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "They were also pioneers who carried with them everything they would need to build new lives - their livestock, taro seedlings and stone tools. Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga. The Lapita left precious few clues about themselves, but Éfaté expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "According to the sixth paragraph, what was extraordinary about the Lapita?",
+    "options": [
+      "They sailed beyond the point where land was visible.",
+      "Their cultural heritage discouraged the expression of fear.",
+      "They were able to build canoes that withstood ocean voyages.",
+      "Their navigational skills were passed on from one generation to the next."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga. The Lapita left precious few clues about themselves, but Éfaté expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots. Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "What does 'This' refer to in the seventh paragraph?",
+    "options": [
+      "the Lapita's seafaring talent",
+      "the Lapita's ability to detect signs of land",
+      "the Lapita's extensive knowledge of the region",
+      "the Lapita's belief they would be able to return home"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "\"They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn't find anything, they could turn about and catch a swift ride back on the trade winds. This is what would have made the whole thing work'. Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pileup of clouds on the horizon which often indicates an island in the distance. For returning explorers, successful or not, the geography of their own archipelagos would have provided a safety net.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "According to the eighth paragraph, how was the geography of the region significant?",
+    "options": [
+      "It played an important role in Lapita culture.",
+      "It meant there were relatively few storms at sea.",
+      "It provided a navigational aid for the Lapita.",
+      "It made a large number of islands habitable."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 3",
+    "passage_text": "Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pileup of clouds on the horizon which often indicates an island in the distance. For returning explorers, successful or not, the geography of their own archipelagos would have provided a safety net. Without this to go by, shooting their home ports, getting lost and sailing off into eternity would have been all too easy. Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 3"
+    }
+  }
+]

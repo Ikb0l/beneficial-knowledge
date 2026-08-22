@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "What is the writer doing in the third paragraph?",
+    "options": [
+      "discussing one weakness of Christie's style",
+      "identifying a writer who influenced Christie",
+      "contrasting different techniques Christie used",
+      "listing some features of a typical Christie story"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "The Influence of the Crime Writer Agatha Christie Crime fiction books, in which detectives hunt for the perpetrators of crimes, have been popular with readers for many decades - so popular, in fact, that at a recent London Book Fair sales of the genre overtook general fiction for the first time ever, a development that had been widely anticipated. Commercial success, of course, does not impress everyone and there are those who believe crime fiction should not be held in such high regard. Prominent in this group is Sebastian Franklin, who has argued that most crime fiction books better resemble crossword puzzles than literature. His view is shared by other literary critics.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "The writer refers to Michael Utley in order to",
+    "options": [
+      "reject a common criticism of Christie's books.",
+      "compare two of Christie's better-known books.",
+      "explain the conclusion of one of Christie's books.",
+      "suggest that each of Christie's books was different."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "But the influence of Christie's sheltered, secluded locations has been immense, for they have been used in countless television series ever since. The writer Michael Utley argues that Christie's characters lack depth and are not convincing people we can believe in. This is a not infrequent complaint, but it is quite untrue. Christie was a perceptive observer of human nature and psychology and she put the traits of people she knew into many of her fictional characters.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "What point does the writer make about Christie's writing style in the fifth paragraph?",
+    "options": [
+      "Occasionally, the stories do not make sense.",
+      "Little happens compared to modern stories.",
+      "Important evidence is very easy to miss.",
+      "Some unnecessary details are included."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "Certainly, the digital revolution has transformed, crime fighting. But a survey of contemporary crime writing shows that Agatha Christie's legacy is more important now than at any time previously, at the very point when crime writing has become the most popular of all book genres.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  },
+  {
+    "question_text": "What does the writer conclude about Christie in the final paragraph?",
+    "options": [
+      "Her influence is slowly beginning to decrease.",
+      "She is more influential today than ever before.",
+      "One book was more influential than the others.",
+      "She has only influenced writers in certain countries."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "IELTS Trainer 2 Academic Test 5",
+    "passage_text": "The Influence of the Crime Writer Agatha Christie Crime fiction books, in which detectives hunt for the perpetrators of crimes, have been popular with readers for many decades - so popular, in fact, that at a recent London Book Fair sales of the genre overtook general fiction for the first time ever, a development that had been widely anticipated. Commercial success, of course, does not impress everyone and there are those who believe crime fiction should not be held in such high regard. Prominent in this group is Sebastian Franklin, who has argued that most crime fiction books better resemble crossword puzzles than literature. His view is shared by other literary critics.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "IELTS Trainer 2 Academic Test 5"
+    }
+  }
+]

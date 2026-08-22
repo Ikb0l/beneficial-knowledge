@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "When discussing the theory developed by Louis Dollo, the writer says that",
+    "options": [
+      "it was immediately referred to as Dollo's law.",
+      "it supported the possibility of evolutionary throwbacks.",
+      "it was modified by biologists in the early twentieth century.",
+      "it was based on many years of research."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "When evolution runs backwards Evolution isn't supposed to run backwards - yet an increasing number of examples show that it does and that it can sometimes represent the future of a species. The description of any animal as an 'evolutionary throwback' is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards', but as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The humpback whale caught off Vancouver Island is mentioned because of",
+    "options": [
+      "the exceptional size of its body.",
+      "the way it exemplifies Dollo's law.",
+      "the amount of local controversy it caused.",
+      "the reason given for its unusual features."
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. 'I can see no other explanation,' he wrote in 1921.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What is said about 'silent genes'?",
+    "options": [
+      "Their numbers vary according to species.",
+      "Raff disagreed with the use of the term.",
+      "They could lead to the re-emergence of certain characteristics.",
+      "They can have an unlimited life span."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the result of genes being switched off. If these silent genes are somehow switched back on, they argued, long-lost traits could reappear. Raff's team went on to calculate the likelihood of it happening. Silent genes accumulate random mutations, they reasoned, eventually rendering them useless.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "The writer mentions the mole salamander because",
+    "options": [
+      "it exemplifies what happens in the development of most amphibians.",
+      "it suggests that Raff's theory is correct.",
+      "it has lost and regained more than one ability.",
+      "its ancestors have become the subject of extensive research."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "In other words, throwbacks are possible, but only to the relatively recent evolutionary past. As a possible example, the team pointed to the mole salamanders of Mexico and California. Like most amphibians these begin life in a juvenile 'tadpole' state, then metamorphose into the adult form – except for one species, the axolotl, which famously lives its entire life as a juvenile. The simplest explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  },
+  {
+    "question_text": "Which of the following does Wagner claim?",
+    "options": [
+      "Members of the Bachia lizard family have lost and regained certain features several times.",
+      "Evidence shows that the evolution of the Bachia lizard is due to the environment.",
+      "His research into South American lizards supports Raff's assertions.",
+      "His findings will apply to other species of South American lizards."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 10 Academic Test 4",
+    "passage_text": "When evolution runs backwards Evolution isn't supposed to run backwards - yet an increasing number of examples show that it does and that it can sometimes represent the future of a species. The description of any animal as an 'evolutionary throwback' is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says 'evolution cannot run backwards', but as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 10 Academic Test 4"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+name: beneficial-knowledge
+
+logger:
+  level: INFO
+  stdout: true
+
+session:
+  token_expiry_sec: 7200
+  refresh_token_expiry_sec: 2592000
+  encryption_key: "${NAKAMA_SESSION_ENCRYPTION_KEY}"
+  refresh_encryption_key: "${NAKAMA_SESSION_REFRESH_ENCRYPTION_KEY}"
+
+socket:
+  server_key: "${NAKAMA_SERVER_KEY}"
+  max_message_size_bytes: 32768
+  max_request_size_bytes: 131072
+  read_buffer_size_bytes: 8192
+  write_buffer_size_bytes: 8192
+  read_timeout_ms: 15000
+  write_timeout_ms: 15000
+  ping_period_ms: 25000
+  pong_wait_ms: 60000
+
+runtime:
+  js_entrypoint: "build/index.js"
+  http_key: "${NAKAMA_HTTP_KEY}"
+  env:
+    # NOTE: Nakama does not expand ${...} placeholders in runtime.env entries.
+    # Keep local-dev runtime values explicit here.
+    - TELEGRAM_BOT_TOKEN=
+    - ALLOW_INSECURE_TELEGRAM_AUTH=true
+    # Enable question preview RPC in local development
+    - ALLOW_QUESTION_PREVIEW=false
+    - ADMIN_TELEGRAM_IDS=937213894
+    # Optional admin token login for self-hosted setups
+    - ADMIN_LOGIN_TOKEN=admin123secret
+    # Web auth pepper for password hashing
+    - WEB_AUTH_PEPPER=23fa92edab5eeeff4319097a1d5921a4a5588448e5a76d526eb006ee28204dad
+    # Key used to encrypt/decrypt AI provider secrets (local dev can reuse WEB_AUTH_PEPPER)
+    - AI_SECRETS_ENCRYPTION_KEY=23fa92edab5eeeff4319097a1d5921a4a5588448e5a76d526eb006ee28204dad
+    - WEB_SESSION_TTL_MINUTES=30
+
+console:
+  username: "admin"
+  password: "dev_console_password_change_me"
+  signing_key: "dev_console_signing_key_change_me"
+
+match:
+  input_queue_size: 512
+  call_queue_size: 512
+  deferred_queue_size: 512
+  join_attempt_queue_size: 512
+  join_marker_deadline_ms: 15000
+  max_empty_sec: 30
+
+matchmaker:
+  max_tickets: 30000
+  interval_sec: 1
+  max_intervals: 20
+
+leaderboard:
+  callback_queue_size: 128
+  callback_queue_workers: 8

@@ -1,0 +1,127 @@
+[
+  {
+    "question_text": "When reporters in New Zealand met Shirase, they were",
+    "options": [
+      "concerned about the quality of his equipment.",
+      "impressed with the design of his ship.",
+      "certain he was unaware of the dangers ahead.",
+      "surprised by the bravery he demonstrated."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 4",
+    "passage_text": "Bad weather delayed the expedition and they didn't reach New Zealand until 8 February; Amundsen and Scott had already been in Antarctica for a month, preparing for winter. In New Zealand local reporters were astonished: the ship was half the size of Amundsen's ship. True, it was reinforced with iron plate and extra wood, but the ship had only the feeblest engine to help force its way through ice. Few doubted Shirase's courage, but most reckoned the expedition to be ill-prepared as the Japanese had only lightweight sledges for transport across the ice, made of bamboo and wood.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What are we told about the captain of the Kainan Maru in the fifth paragraph?",
+    "options": [
+      "He had given Shirase some poor advice.",
+      "His skill at sailing saved the boat and crew.",
+      "He refused to listen to the warnings of others.",
+      "He was originally confident they could reach Antarctica."
+    ],
+    "correct_index": 1,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 4",
+    "passage_text": "'Even with their determination and daring, our Japanese friends are running it rather fine,' wrote local reporters. Nevertheless, on 11 February the Kainan Maru left New Zealand and sailed straight into the worst weather the captain had ever seen. Then, on 6 March, they approached the coastline of Antarctica's Ross Sea, looking for a place to land. The ice began to close in, threatening to trap them for the winter, an experience no one was likely to survive.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "B"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 4"
+    }
+  },
+  {
+    "question_text": "After Shirase finally reached Antarctica he realised that",
+    "options": [
+      "he was unsure of the direction he should follow.",
+      "he would have to give up on fulfilling his personal ambition.",
+      "he might not have enough food to get to the South Pole.",
+      "he still wanted to compete in the race against the other teams."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 4",
+    "passage_text": "They would have to wait out the winter in a warmer climate. A year later than planned, Shirase and six men finally reached Antarctica. Catching up with Scott or Amundsen was out of the question and he had said he would stick to science this time. Yet Shirase still felt the pull of the pole and eventually decided he would head southward to experience the thrills and hardships of polar exploration he had always dreamed of.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What is the writer doing in the seventh paragraph?",
+    "options": [
+      "criticising a decision concerning scientific research.",
+      "explaining why a particular mistake had occurred.",
+      "describing the conditions that the expedition faced.",
+      "rejecting the idea that Shirase was poorly prepared."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 4",
+    "passage_text": "In January 1910, Shirase put his plans before Japanese government officials, promising to raise the flag at the South Pole within three years. For many of them, the question wasn't could he do it but why would it be worth doing? 15 years earlier the International Geographical Congress had said that as the last unknown continent the Antarctic offered the chance to add to knowledge in almost every branch of science. So, like the British, Shirase presented his expedition as a search for knowledge: he would bring back fossils, make meteorological measurements and explore unknown parts of the continent.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 4"
+    }
+  },
+  {
+    "question_text": "What is the writer's main point in the final paragraph?",
+    "options": [
+      "Considering the problems Shirase had to deal with, his achievement was incredible.",
+      "In Japan, the reaction to Shirase's adventure in Antarctica came as a surprise to him.",
+      "It was obvious that Amundsen would receive more attention as an explorer than Shirase.",
+      "Shirase had achieved more on the Antarctic expedition than even he had expected."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Official Guide to IELTS Academic Test 4",
+    "passage_text": "He eventually acquired a scientist, too, called Terutaro Takeda. At the end of November 1910, his ship the Kainan Maru finally left Tokyo with 27 men and 28 Siberian dogs on board. Before leaving, Shirase confidently outlined his plans to the media. He would sail to New Zealand, then reach Antarctica in February, during the southern summer, and then proceed to the pole the following spring.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 4"
+    }
+  }
+]

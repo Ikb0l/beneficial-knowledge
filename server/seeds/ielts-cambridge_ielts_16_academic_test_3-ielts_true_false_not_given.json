@@ -1,0 +1,266 @@
+[
+  {
+    "question_text": "The Romans' shipbuilding skills were passed on to the Greeks and the Egyptians.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Shipbuilding in ancient Rome, however, was more of an art relying on estimation, inherited techniques and personal experience. The Romans were not traditionally sailors but mostly land-based people, who learned to build ships from the people that they conquered, namely the Greeks and the Egyptians. There are a few surviving written documents that give descriptions and representations of ancient Roman ships, including the sails and rigging. Excavated vessels also provide some clues about ancient shipbuilding techniques.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Skilled craftsmen were needed for the mortise and tenon method of fixing planks.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Planks used to build the outer hull were initially sewn together. Starting from the 6th century BCE, they were fixed using a method called mortise and tenon, whereby one plank locked into another without the need for stitching. Then in the first centuries of the current era, Mediterranean shipbuilders shifted to another shipbuilding method, still in use today, which consisted of building the frame first and then proceeding with the hull and the other components of the ship. This method was more systematic and dramatically shortened ship construction times.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "The later practice used by Mediterranean shipbuilders involved building the hull before the frame.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Starting from the 6th century BCE, they were fixed using a method called mortise and tenon, whereby one plank locked into another without the need for stitching. Then in the first centuries of the current era, Mediterranean shipbuilders shifted to another shipbuilding method, still in use today, which consisted of building the frame first and then proceeding with the hull and the other components of the ship. This method was more systematic and dramatically shortened ship construction times. The ancient Romans built large merchant ships and warships whose size and technology were unequalled until the 16th century CE.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "The Romans called the Mediterranean Sea Mare Nostrum because they dominated its use.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Warships used both wind (sails) and human power (oarsmen) and were therefore very fast. Eventually, Rome's navy became the largest and most powerful in the Mediterranean, and the Romans had control over what they therefore called Mare Nostrum meaning 'our sea'. There were many kinds of warship. The 'trireme' was the dominant warship from the 7th to 4th century BCE.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Most rowers on ships were people from the Roman army.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Shipbuilding in ancient Rome, however, was more of an art relying on estimation, inherited techniques and personal experience. The Romans were not traditionally sailors but mostly land-based people, who learned to build ships from the people that they conquered, namely the Greeks and the Egyptians. There are a few surviving written documents that give descriptions and representations of ancient Roman ships, including the sails and rigging. Excavated vessels also provide some clues about ancient shipbuilding techniques.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "The Cambridge scientists' discovery of the 'thermometer molecule' caused surprise among other scientists.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "A An international team of scientists led by the University of Cambridge has discovered that the 'thermometer' molecule in plants enables them to develop according to seasonal temperature changes. Researchers have revealed that molecules called phytochromes - used by plants to detect light during the day - actually change their function in darkness to become cellular temperature gauges that measure the heat of the night. The new findings, published in the journal Science, show that phytochromes control genetic switches in response to temperature as well as light to dictate plant development.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "The target for agricultural production by 2050 could be missed.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "With weather and temperatures set to become ever more unpredictable due to climate change, researchers say the discovery that this light-sensing molecule also functions as the internal thermometer in plant cells could help us breed tougher crops. 'It is estimated that agricultural yields will need to double by 2050, but climate change is a major threat to achieving this. Key crops such as wheat and rice are sensitive to high temperatures. Thermal stress reduces crop yields by around 10% for every one degree increase in temperature,' says lead researcher Dr Philip Wigge from Cambridge's Sainsbury Laboratory.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Wheat and rice suffer from a rise in temperatures.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "'It is estimated that agricultural yields will need to double by 2050, but climate change is a major threat to achieving this. Key crops such as wheat and rice are sensitive to high temperatures. Thermal stress reduces crop yields by around 10% for every one degree increase in temperature,' says lead researcher Dr Philip Wigge from Cambridge's Sainsbury Laboratory. 'Discovering the molecules that allow plants to sense temperature has the potential to accelerate the breeding of crops resilient to thermal stress and climate change.'",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "TRUE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "It may be possible to develop crops that require less water.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "Plant 'thermometer' triggers springtime growth by measuring night-time heat A photoreceptor molecule in plant cells has been found to have a second job as a thermometer after dark - allowing plants to read seasonal temperature changes. Scientists say the discovery could help breed crops that are more resilient to the temperatures expected to result from climate change. A An international team of scientists led by the University of Cambridge has discovered that the 'thermometer' molecule in plants enables them to develop according to seasonal temperature changes.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Plants grow faster in sunlight than in shade.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "During the day, sunlight activates the molecules, slowing down growth. If a plant finds itself in shade, phytochromes are quickly inactivated - enabling it to grow faster to find sunlight again. This is how plants compete to escape each other's shade. 'Light-driven changes to phytochrome activity occur very fast, in less than a second, says Wigge.",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Phytochromes change their state at the same speed day and night.",
+    "options": [
+      "True",
+      "False",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 16 Academic Test 3",
+    "passage_text": "An international team of scientists led by the University of Cambridge has discovered that the 'thermometer' molecule in plants enables them to develop according to seasonal temperature changes. Researchers have revealed that molecules called phytochromes - used by plants to detect light during the day - actually change their function in darkness to become cellular temperature gauges that measure the heat of the night. The new findings, published in the journal Science, show that phytochromes control genetic switches in response to temperature as well as light to dictate plant development. B",
+    "metadata": {
+      "ielts_type": "true_false_not_given",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "FALSE"
+      ],
+      "source_pack": "Cambridge IELTS 16 Academic Test 3"
+    }
+  }
+]

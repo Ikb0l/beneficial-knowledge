@@ -1,0 +1,102 @@
+[
+  {
+    "question_text": "27 In the first paragraph, the writer introduces the topic of the text by",
+    "options": [
+      "defining some commonly used terms.",
+      "questioning a widely held assumption.",
+      "mentioning a challenge faced by everyone.",
+      "specifying a situation which makes us most anxious."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 1",
+    "passage_text": "If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in turn create more negative posts. In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished predators, is now being triggered by an online post.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "28 What point does the writer make about firefighters in the second paragraph?",
+    "options": [
+      "The regular changes of stress levels in their working lives make them ideal study subjects.",
+      "The strategies they use to handle stress are of particular interest to researchers.",
+      "The stressful nature of their job is typical of many public service professions.",
+      "Their personalities make them especially well-suited to working under stress."
+    ],
+    "correct_index": 0,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 1",
+    "passage_text": "People are normally quite optimistic – they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "A"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "29 What is the writer doing in the fourth paragraph?",
+    "options": [
+      "explaining their findings",
+      "justifying their approach",
+      "setting out their objectives",
+      "describing their methodology"
+    ],
+    "correct_index": 3,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 1",
+    "passage_text": "People are normally quite optimistic – they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "D"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 1"
+    }
+  },
+  {
+    "question_text": "30 In the seventh paragraph, the writer describes a mechanism in the brain which",
+    "options": [
+      "enables people to respond more quickly to stressful situations.",
+      "results in increased ability to control our levels of anxiety.",
+      "produces heightened sensitivity to indications of external threats.",
+      "is activated when there is a need to communicate a sense of danger."
+    ],
+    "correct_index": 2,
+    "question_type": "mcq",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 20 Academic Test 1",
+    "passage_text": "In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought). Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence. When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what might go wrong.",
+    "metadata": {
+      "ielts_type": "multiple_choice",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "C"
+      ],
+      "source_pack": "Cambridge IELTS 20 Academic Test 1"
+    }
+  }
+]

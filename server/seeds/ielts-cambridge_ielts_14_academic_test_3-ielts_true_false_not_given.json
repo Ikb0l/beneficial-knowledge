@@ -1,0 +1,194 @@
+[
+  {
+    "question_text": "Slow language development in children is likely to prove disappointing to their parents.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "To better understand the judgments people make about their own and others' abilities, it is useful to learn about people's implicit theories. For example, parents' implicit theories of their children's language development will determine at what ages they will be willing to make various corrections in their children's speech. More generally, parents' implicit theories of intelligence will determine at what ages they believe their children are ready to perform various cognitive tasks. Job interviewers will make hiring decisions on the basis of their implicit theories of intelligence.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "People's expectations of what children should gain from education are universal.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "How these expectations differ is in part a function of culture. For example, expectations for children who participate in Western-style schooling are almost certain to be different from those for children who do not participate in such schooling. F I have suggested that there are three major implicit theories of how intelligence relates to society as a whole (Sternberg, 1997).",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Scholars may discuss theories without fully understanding each other.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "Implicit theories of intelligence and of the relationship of intelligence to society perhaps need to be considered more carefully than they have been because they often serve as underlying presuppositions for explicit theories and even experimental designs that are then taken as scientific contributions. Until scholars are able to discuss their implicit theories and thus their assumptions, they are likely to miss the point of what others are saying when discussing their explicit theories and their data.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 1,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Children need toys in order to play.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "The power of play Virtually every child, the world over, plays. The drive to play is so intense that children will do so in any circumstances, for instance when they have no real toys, or when parents do not actively encourage the behaviour. In the eyes of a young child, running, pretending, and building are fun. Researchers and educators know that these playful activities benefit the development of the whole child across social, cognitive, physical, and emotional domains.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "It is a mistake to treat play and learning as separate types of activities.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "In the eyes of a young child, running, pretending, and building are fun. Researchers and educators know that these playful activities benefit the development of the whole child across social, cognitive, physical, and emotional domains. Indeed, play is such an instrumental component to healthy child development that the United Nations High Commission on Human Rights (1989) recognized play as a fundamental right of every child. Yet, while experts continue to expound a powerful argument for the importance of play in children's lives, the actual time children spend playing continues to decrease.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Play helps children to develop their artistic talents.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 2,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "Yet, while experts continue to expound a powerful argument for the importance of play in children's lives, the actual time children spend playing continues to decrease. Today, children play eight hours less each week than their counterparts did two decades ago (Elkind 2008). Under pressure of rising academic standards, play is being replaced by test preparation in kindergartens and grade schools, and parents who aim to give their preschoolers a leg up are led to believe that flashcards and educational 'toys' are the path to success. Our society has created a false dichotomy between play and learning.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NOT_GIVEN"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Researchers have agreed on a definition of play.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 1,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "Through play, children learn to regulate their behaviour, lay the foundations for later learning in science and mathematics, figure out the complex negotiations of social relationships, build a repertoire of creative problem-solving skills, and so much more. There is also an important role for adults in guiding children through playful learning opportunities, Full consensus on a formal definition of play continues to elude the researchers and theorists who study it. Definitions range from discrete descriptions of various types of play such as physical, construction, language, or symbolic play (Miller & Almon 2009), to lists of broad criteria, based on observations and attitudes, that are meant to capture the essence of all play behaviors (e.g. Rubin et al.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "NO"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  },
+  {
+    "question_text": "Work and play differ in terms of whether or not they have a target.",
+    "options": [
+      "Yes",
+      "No",
+      "Not Given"
+    ],
+    "correct_index": 0,
+    "question_type": "true_false_not_given",
+    "difficulty": "hard",
+    "explanation": "",
+    "source_reference": "Cambridge IELTS 14 Academic Test 3",
+    "passage_text": "The power of play Virtually every child, the world over, plays. The drive to play is so intense that children will do so in any circumstances, for instance when they have no real toys, or when parents do not actively encourage the behaviour. In the eyes of a young child, running, pretending, and building are fun. Researchers and educators know that these playful activities benefit the development of the whole child across social, cognitive, physical, and emotional domains.",
+    "metadata": {
+      "ielts_type": "yes_no_not_given",
+      "variant": "yes_no_not_given",
+      "exam_type": "academic",
+      "passage_num": 3,
+      "correct_answers": [
+        "YES"
+      ],
+      "source_pack": "Cambridge IELTS 14 Academic Test 3"
+    }
+  }
+]

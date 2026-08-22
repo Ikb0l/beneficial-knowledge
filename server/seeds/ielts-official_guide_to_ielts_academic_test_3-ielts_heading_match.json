@@ -1,0 +1,132 @@
+[
+  {
+    "question_text": "Choose the correct heading for: A",
+    "options": [
+      "Some benefits of traditional methods",
+      "Examining the overall benefits",
+      "A building like no other",
+      "Examples of similar global brands"
+    ],
+    "correct_index": 2,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "High Speed, High Rise A Chinese entrepreneur has figured out a way to manufacture 30-story, earthquake-proof skyscrapers that snap together in just 15 days. A Zhang Yue is founder and chairman of Broad Sustainable Building (otherwise known as 'Broad') who, on 1 January, 2012, released a time-lapse video of its 30-story achievement.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iv"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3",
+      "item_text": "A"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: B",
+    "options": [
+      "Other engineering achievements",
+      "From factory to building site",
+      "A joint business project",
+      "A building like no other"
+    ],
+    "correct_index": 1,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "High Speed, High Rise A Chinese entrepreneur has figured out a way to manufacture 30-story, earthquake-proof skyscrapers that snap together in just 15 days. A Zhang Yue is founder and chairman of Broad Sustainable Building (otherwise known as 'Broad') who, on 1 January, 2012, released a time-lapse video of its 30-story achievement.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "viii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3",
+      "item_text": "B"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: C",
+    "options": [
+      "Other engineering achievements",
+      "Some benefits of traditional methods",
+      "Examples of similar global brands",
+      "A change of direction"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "High Speed, High Rise A Chinese entrepreneur has figured out a way to manufacture 30-story, earthquake-proof skyscrapers that snap together in just 15 days. A Zhang Yue is founder and chairman of Broad Sustainable Building (otherwise known as 'Broad') who, on 1 January, 2012, released a time-lapse video of its 30-story achievement.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "ii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3",
+      "item_text": "C"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: D",
+    "options": [
+      "From factory to building site",
+      "Examining the overall benefits",
+      "Examples of similar global brands",
+      "A change of direction"
+    ],
+    "correct_index": 3,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "High Speed, High Rise A Chinese entrepreneur has figured out a way to manufacture 30-story, earthquake-proof skyscrapers that snap together in just 15 days. A Zhang Yue is founder and chairman of Broad Sustainable Building (otherwise known as 'Broad') who, on 1 January, 2012, released a time-lapse video of its 30-story achievement.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "vi"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3",
+      "item_text": "D"
+    }
+  },
+  {
+    "question_text": "Choose the correct heading for: E",
+    "options": [
+      "Examining the overall benefits",
+      "A joint business project",
+      "Examples of similar global brands",
+      "Other engineering achievements"
+    ],
+    "correct_index": 0,
+    "question_type": "heading_match",
+    "difficulty": "hard",
+    "explanation": "Choose the correct heading for each paragraph from the list of headings below.",
+    "source_reference": "Official Guide to IELTS Academic Test 3",
+    "passage_text": "High Speed, High Rise A Chinese entrepreneur has figured out a way to manufacture 30-story, earthquake-proof skyscrapers that snap together in just 15 days. A Zhang Yue is founder and chairman of Broad Sustainable Building (otherwise known as 'Broad') who, on 1 January, 2012, released a time-lapse video of its 30-story achievement.",
+    "metadata": {
+      "ielts_type": "matching_headings",
+      "variant": null,
+      "exam_type": "academic",
+      "passage_num": 2,
+      "correct_answers": [
+        "iii"
+      ],
+      "source_pack": "Official Guide to IELTS Academic Test 3",
+      "item_text": "E"
+    }
+  }
+]
